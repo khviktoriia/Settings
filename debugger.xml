@@ -1,0 +1,26 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <option name="valueLookupDelay" value="150" />
+    </data-views>
+    <general />
+    <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="automaticallyRefreshWatches" value="true" />
+          <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="groupNonPublicMembers" value="true" />
+          <option name="ignorePrecompiledAssemblies" value="true" />
+          <option name="showCompilerGeneratedMembers" value="true" />
+          <option name="showRawNodeForDebuggerBrowsableValues" value="true" />
+          <option name="smartStepIntoShowAlreadyExecutedTargets" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>
