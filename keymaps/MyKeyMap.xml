@@ -1,0 +1,169 @@
+<keymap version="1" name="MyKeyMap" parent="Visual Studio">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="CancelBuildAction">
+    <keyboard-shortcut first-keystroke="ctrl cancel" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
+  <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="Console.TableResult.EditValue" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="DatabaseView.CopyDdlAction" />
+  <action id="DatabaseView.OpenDdlInConsole" />
+  <action id="EditBookmark">
+    <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="ctrl e" />
+  </action>
+  <action id="EditInspectionSettings">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorCreateRectangularSelection" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="EditorLookupUp" />
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
+  <action id="EditorScrollUp" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSortLines">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="EnableDaemon" />
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift f1" />
+  </action>
+  <action id="FindNext" />
+  <action id="FindPrevious" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="GotoBookmark0" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
+  <action id="GotoBookmark6" />
+  <action id="GotoBookmark7" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="GotoNextBookmark" />
+  <action id="GotoPreviousBookmark" />
+  <action id="List-selectPreviousRow" />
+  <action id="MethodDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="NavBar-selectUp" />
+  <action id="NextOccurence" />
+  <action id="PopupMenu-selectNext" />
+  <action id="PopupMenu-selectPrevious" />
+  <action id="PreviousOccurence" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+  </action>
+  <action id="Rider.Plugins.FSharp.DebugInFsi" />
+  <action id="Rider.Plugins.FSharp.SendToFsi" />
+  <action id="RiderRemoveAllLineBreakpoints" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="RunJsbtTask" />
+  <action id="RunToCursor" />
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="ctrl s" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ShowNavBar" />
+  <action id="ShowSearchHistory" />
+  <action id="ShowSolutionPropertiesAction">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
+  <action id="SmartSelect">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="SmartUnSelect">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="Table-selectPreviousRow" />
+  <action id="Table-selectPreviousRowExtendSelection" />
+  <action id="TableResult.GrowSelection">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="TableResult.ShrinkSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl k" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="ctrl b" />
+  </action>
+  <action id="ToggleBreakpointEnabled" />
+  <action id="Tree-selectNext" />
+  <action id="Tree-selectPrevious" />
+  <action id="Tree-selectPreviousExtendSelection" />
+  <action id="UpdateRunningApplication" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
+  <action id="dotTrace Profiler">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+  </action>
+  <action id="liveedit.UpdateRunningApplication" />
+</keymap>
