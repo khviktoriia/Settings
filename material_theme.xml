@@ -1,5 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="3debdd7a:17b8d364d43:-7ff9" />
   </component>
 </application>
