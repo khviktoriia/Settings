@@ -3,8 +3,7 @@
     <option name="collapseHashDirectives" value="false" />
   </component>
   <component name="RiderCodeCompletionExtraSettings">
-    <option name="alwaysCompleteWithEnter" value="false" />
-    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+    <option name="allowToCompleteWithWhitespace" value="false" />
     <option name="hasNotifiedAboutCompletingWithSpace" value="true" />
   </component>
   <component name="RiderDefaultCodeFoldingSettings">
