@@ -4,19 +4,12 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://dev.azure.com/TradingForge" />
+          <option name="uri" value="https://TradingForge@dev.azure.com/TradingForge/Advanced%20Betfair/_git/Advanced%20Betfair" />
           <option name="serverUri" value="https://dev.azure.com/TradingForge" />
           <option name="userId" value="87af91bd-7367-6d5e-b7a0-6c93736bf8a0" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="87af91bd-7367-6d5e-b7a0-6c93736bf8a0" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;52ed1038-ebd6-4fe3-a18f-f1fa1ce2a505&quot;,&quot;name&quot;:&quot;TradingForge&quot;,&quot;url&quot;:&quot;https://dev.azure.com/TradingForge/_apis/projectCollections/52ed1038-ebd6-4fe3-a18f-f1fa1ce2a505&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;e61a3f0f-bf57-45f8-b4ff-d34b1131b585&quot;,&quot;name&quot;:&quot;Advanced Betfair&quot;,&quot;revision&quot;:26,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/TradingForge/_apis/projects/e61a3f0f-bf57-45f8-b4ff-d34b1131b585&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;d0425cf4-2bb1-46c9-8ea3-b409d3ae51ca&quot;,&quot;name&quot;:&quot;Advanced Betfair&quot;,&quot;remoteUrl&quot;:&quot;https://TradingForge@dev.azure.com/TradingForge/Advanced%20Betfair/_git/Advanced%20Betfair&quot;,&quot;url&quot;:&quot;https://dev.azure.com/TradingForge/_apis/git/repositories/d0425cf4-2bb1-46c9-8ea3-b409d3ae51ca&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;e61a3f0f-bf57-45f8-b4ff-d34b1131b585&quot;,&quot;name&quot;:&quot;Advanced Betfair&quot;,&quot;revision&quot;:26,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/TradingForge/_apis/projects/e61a3f0f-bf57-45f8-b4ff-d34b1131b585&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
       </array>
     </option>
@@ -40,7 +33,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//app.vssps.visualstudio.com" />
+          <option name="value" value="//tradingforge@dev.azure.com/tradingforge/advanced betfair/_git/advanced betfair" />
         </PropertyState>
       </array>
     </option>
