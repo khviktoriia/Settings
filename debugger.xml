@@ -7,11 +7,8 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="automaticallyRefreshWatches" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
-          <option name="groupNonPublicMembers" value="true" />
           <option name="ignorePrecompiledAssemblies" value="true" />
-          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="showCompilerGeneratedMembers" value="true" />
           <option name="showRawNodeForDebuggerBrowsableValues" value="true" />
         </configuration>
