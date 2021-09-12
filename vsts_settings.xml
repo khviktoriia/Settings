@@ -6,6 +6,18 @@
     <option name="properties">
       <array>
         <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="visualStudioTfClientPath" />
+          <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="tfvcUseReactiveClient" />
+          <option name="value" value="false" />
+        </PropertyState>
+        <PropertyState>
           <option name="name" value="repoRoot" />
           <option name="value" value="$USER_HOME$" />
         </PropertyState>
