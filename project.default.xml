@@ -1,32 +1,9 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="AutoImportSettings">
-        <option name="autoReloadType" value="SELECTIVE" />
-      </component>
       <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
-      <component name="ProjectViewState">
-        <option name="hideEmptyMiddlePackages" value="true" />
-        <option name="showLibraryContents" value="true" />
-      </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="ics" />
-      </component>
-      <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-      <component name="masterDetails">
-        <states>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
+        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
       </component>
     </defaultProject>
   </component>

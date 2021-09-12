@@ -1,34 +1,13 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://dev.azure.com/TradingForge" />
-          <option name="serverUri" value="https://dev.azure.com/TradingForge" />
-          <option name="userId" value="87af91bd-7367-6d5e-b7a0-6c93736bf8a0" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>
         <PropertyState>
-          <option name="name" value="tfHome" />
-          <option name="value" value="" />
-        </PropertyState>
-        <PropertyState>
-          <option name="name" value="visualStudioTfClientPath" />
-          <option name="value" value="" />
-        </PropertyState>
-        <PropertyState>
-          <option name="name" value="tfvcUseReactiveClient" />
-          <option name="value" value="false" />
-        </PropertyState>
-        <PropertyState>
-          <option name="name" value="authType" />
-          <option name="value" value="DEVICE_FLOW" />
+          <option name="name" value="repoRoot" />
+          <option name="value" value="$USER_HOME$" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
