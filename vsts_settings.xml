@@ -1,7 +1,16 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/TradingForge" />
+          <option name="serverUri" value="https://dev.azure.com/TradingForge" />
+          <option name="userId" value="87af91bd-7367-6d5e-b7a0-6c93736bf8a0" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
@@ -15,11 +24,15 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="tfvcUseReactiveClient" />
-          <option name="value" value="false" />
+          <option name="value" value="true" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="repoRoot" />
           <option name="value" value="$USER_HOME$" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="reactiveClientMemory" />
+          <option name="value" value="2048" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
