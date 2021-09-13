@@ -20,9 +20,10 @@
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="tabFontSize" value="16" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="accentColor" value="84ffff" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
     <option name="version" value="6.8.2" />
     <option name="tabHighlightPosition" value="Full" />

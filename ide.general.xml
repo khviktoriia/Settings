@@ -32,15 +32,20 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CodeStream.StatusBar" value="false" />
+        <entry key="Encoding" value="false" />
+        <entry key="LineSeparator" value="false" />
         <entry key="Position" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
         <entry key="TypeScriptInfo" value="false" />
-        <entry key="mtStatusBar" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
+        <entry key="git" value="false" />
       </map>
     </option>
   </component>

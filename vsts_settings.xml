@@ -15,24 +15,8 @@
     <option name="properties">
       <array>
         <PropertyState>
-          <option name="name" value="tfHome" />
-          <option name="value" value="" />
-        </PropertyState>
-        <PropertyState>
-          <option name="name" value="visualStudioTfClientPath" />
-          <option name="value" value="" />
-        </PropertyState>
-        <PropertyState>
-          <option name="name" value="tfvcUseReactiveClient" />
-          <option name="value" value="true" />
-        </PropertyState>
-        <PropertyState>
           <option name="name" value="repoRoot" />
-          <option name="value" value="$USER_HOME$" />
-        </PropertyState>
-        <PropertyState>
-          <option name="name" value="reactiveClientMemory" />
-          <option name="value" value="2048" />
+          <option name="value" value="/home/ellenord" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
