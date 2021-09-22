@@ -60,6 +60,7 @@
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
       <set>
+        <option value="Rust.chain-method.hints" />
         <option value="Rust.rust.type.hints" />
       </set>
     </option>
