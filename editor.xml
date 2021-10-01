@@ -12,9 +12,7 @@
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-    <option name="SMART_INDENT_ON_ENTER" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
-    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
@@ -53,8 +51,20 @@
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="TOOLTIPS_DELAY_MS" value="100" />
     <option name="CARET_BLINKING_PERIOD" value="128" />
-    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Rust.chain-method.hints" />
+        <option value="Rust.rust.type.hints" />
+      </set>
+    </option>
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
 </application>
