@@ -5,5 +5,8 @@
         <added pattern="*" />
       </blacklist>
     </blacklists>
+    <disabledLanguages>
+      <language id="ObjectiveC" />
+    </disabledLanguages>
   </component>
 </application>
