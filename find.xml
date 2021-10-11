@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'CodeGeneration'" />
-    <option name="defaultScopeName" value="Project 'CodeGeneration'" />
+    <option name="customScope" value="Project 'RustRust'" />
+    <option name="defaultScopeName" value="Project 'RustRust'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'CodeGeneration'" />
+    <option name="SEARCH_SCOPE" value="Project 'RustRust'" />
   </component>
 </application>
