@@ -258,7 +258,13 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="GotoNextBookmark" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="GotoPreviousBookmark" />
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="GotoRelated" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="page_up" />
