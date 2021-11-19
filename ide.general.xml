@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="browserPath" value="/usr/bin/firefox-developer-edition" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
