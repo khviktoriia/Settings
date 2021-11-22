@@ -50,7 +50,7 @@
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl i" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="left" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="BuildCurrentProject" />
   <action id="BuildSolutionAction">
@@ -225,7 +225,7 @@
   <action id="ForceStepInto" />
   <action id="ForceStepOver" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl b" />
@@ -246,13 +246,13 @@
   </action>
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="up" />
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="down" />
+    <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt l" />
