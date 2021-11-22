@@ -267,13 +267,13 @@
   </action>
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta up" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt l" />
