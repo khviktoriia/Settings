@@ -365,7 +365,7 @@
   <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction" />
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="meta #10000a7" second-keystroke="enter" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f11" />
