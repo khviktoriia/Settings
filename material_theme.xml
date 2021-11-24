@@ -4,7 +4,6 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -22,8 +21,8 @@
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="tabsHeight" value="14" />
-    <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="accentColor" value="84ffff" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
     <option name="version" value="6.9.1" />
     <option name="tabHighlightPosition" value="Full" />

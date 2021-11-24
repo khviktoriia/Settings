@@ -4,7 +4,7 @@
     <property name="created">2021-07-09T05:58:59</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2021-11-23T00:24:10</property>
+    <property name="modified">2021-07-09T06:01:37</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -60,10 +60,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ffdb8e" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffdb8e" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ffdb8e" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="a9b8e8" />
     <option name="FILESTATUS_MERGED" value="70b0ff" />
     <option name="FILESTATUS_MODIFIED" value="34d3fb" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="34d3fb" />
@@ -73,7 +69,7 @@
     <option name="FILESTATUS_SUPPRESSED" value="bcc4d6" />
     <option name="FILESTATUS_SWITCHED" value="baacff" />
     <option name="FILESTATUS_UNKNOWN" value="7af8ca" />
-    <option name="FILESTATUS_addedOutside" value="baacff" />
+    <option name="FILESTATUS_addedOutside" value="7af8ca" />
     <option name="FILESTATUS_changelistConflict" value="ffdb8e" />
     <option name="FILESTATUS_modifiedOutside" value="70b0ff" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="222436" />
@@ -472,6 +468,7 @@
       <value>
         <option name="FOREGROUND" value="7fdbca" />
         <option name="EFFECT_COLOR" value="7fdbca" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -1569,6 +1566,7 @@
         <option name="FOREGROUND" value="ff9668" />
       </value>
     </option>
+    <option name="MAKO.SUBSTITUTION" baseAttributes="" />
     <option name="MARKDOWN.AUTO_LINK">
       <value>
         <option name="FOREGROUND" value="34d3fb" />
@@ -2969,14 +2967,15 @@
         <option name="FOREGROUND" value="e4f3fa" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="7af8ca" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="70b0ff" />
@@ -3419,6 +3418,7 @@
         <option name="FOREGROUND" value="b4c2f0" />
       </value>
     </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="ReSharper.FORMAT_STRING_ITEM" />
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
         <option name="FOREGROUND" value="b4c2f0" />
@@ -3450,6 +3450,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="ffdb8e" />
@@ -3519,6 +3520,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="ff9668" />
