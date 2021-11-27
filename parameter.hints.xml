@@ -6,6 +6,7 @@
       </blacklist>
     </blacklists>
     <disabledLanguages>
+      <language id="JavaScript" />
       <language id="ObjectiveC" />
     </disabledLanguages>
   </component>
