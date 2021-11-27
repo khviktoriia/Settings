@@ -14,10 +14,6 @@
           <option name="url" value="https://TradingForge@dev.azure.com/TradingForge/Advanced%20Betfair/_git/Advanced%20Betfair" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/okex/V3-Open-API-SDK" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/RiderProjects" />

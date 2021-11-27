@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'rust_connectivity'" />
-    <option name="defaultScopeName" value="Project 'rust_connectivity'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'rust_connectivity'" />
+    <option name="customScope" value="File '…/binance/src/data/dto.rs'" />
+    <option name="defaultScopeName" value="File '…/binance/src/data/dto.rs'" />
+    <option name="SEARCH_SCOPE" value="File '…/binance/src/data/dto.rs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
