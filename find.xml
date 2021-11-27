@@ -1,0 +1,13 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '…/binance/src/data/dto.rs'" />
+    <option name="defaultScopeName" value="File '…/binance/src/data/dto.rs'" />
+    <option name="SEARCH_SCOPE" value="File '…/binance/src/data/dto.rs'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+  </component>
+</application>
