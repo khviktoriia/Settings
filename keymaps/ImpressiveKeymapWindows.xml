@@ -1,4 +1,4 @@
-<keymap version="1" name="ImpressiveKeymap" parent="Visual Studio">
+<keymap version="1" name="ImpressiveKeymapWindows" parent="Visual Studio">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
@@ -246,25 +246,21 @@
   </action>
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="GotoNextBookmark" />
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
+  <action id="GotoNextError" />
   <action id="GotoPreviousBookmark" />
-  <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
+  <action id="GotoPreviousError" />
   <action id="GotoRelated" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="page_up" />
@@ -351,12 +347,8 @@
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="page_down" />
   </action>
-  <action id="ReSharperGotoNextErrorInSolution">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
-  <action id="ReSharperGotoPrevErrorInSolution">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
+  <action id="ReSharperGotoNextErrorInSolution" />
+  <action id="ReSharperGotoPrevErrorInSolution" />
   <action id="ReSharperNavigateTo">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
@@ -466,6 +458,7 @@
   <action id="SwitchCoverage" />
   <action id="SwitchHeaderSource" />
   <action id="SwitcherIterateItems" />
+  <action id="SwitcherPreviousProblem" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Synchronize" />
   <action id="TodoViewGroupByFlattenPackage" />
