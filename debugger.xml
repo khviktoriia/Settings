@@ -86,4 +86,20 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <option name="valueLookupDelay" value="128" />
+    </data-views>
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+      <scroll-to-center>true</scroll-to-center>
+    </general>
+    <debuggers>
+      <debugger id="Rust">
+        <configuration>
+          <option name="lldbPath" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2021.2/intellij-rust/lldb" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
 </application>
