@@ -50,7 +50,7 @@
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl i" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="BuildCurrentProject" />
   <action id="BuildSolutionAction">
@@ -225,7 +225,7 @@
   <action id="ForceStepInto" />
   <action id="ForceStepOver" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl b" />
@@ -315,9 +315,7 @@
   <action id="MoveStatementUp" />
   <action id="NextOccurence" />
   <action id="NextProjectWindow" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
+  <action id="NextTab" />
   <action id="OpenExceptionSettings" />
   <action id="OpenInRightSplit" />
   <action id="OptimizeImports">
@@ -337,9 +335,7 @@
   <action id="PopupHector" />
   <action id="PreviousOccurence" />
   <action id="PreviousProjectWindow" />
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
+  <action id="PreviousTab" />
   <action id="Print" />
   <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations" />
