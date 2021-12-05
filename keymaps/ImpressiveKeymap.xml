@@ -227,6 +227,9 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="right" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="insert" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl b" />
   </action>
@@ -363,7 +366,9 @@
   <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
   <action id="RecentLocations" />
-  <action id="Refactorings.QuickListPopupAction" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="enter" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
