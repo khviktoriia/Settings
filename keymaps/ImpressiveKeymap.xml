@@ -471,6 +471,7 @@
   <action id="SwitchCoverage" />
   <action id="SwitchHeaderSource" />
   <action id="SwitcherIterateItems" />
+  <action id="SwitcherPreviousProblem" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Synchronize" />
   <action id="TodoViewGroupByFlattenPackage" />
