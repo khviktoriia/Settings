@@ -1,0 +1,13 @@
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="256" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
+  <stylecop>
+    <option name="ENABLED" value="true" />
+  </stylecop>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

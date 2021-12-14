@@ -1,0 +1,19 @@
+<application>
+  <component name="AspNetCodeFoldingSettings">
+    <option name="collapseRenderBlocks" value="true" />
+    <option name="collapseSubstitutions" value="true" />
+    <option name="collapseWebContainers" value="true" />
+  </component>
+  <component name="RazorCodeFoldingSettings">
+    <option name="collapseCodeBlocks" value="true" />
+  </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="allowToCompleteWithWhitespace" value="false" />
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+    <option name="hasNotifiedAboutCompletingWithSpace" value="true" />
+  </component>
+  <component name="RiderDefaultCodeFoldingSettings">
+    <option name="collapseCaseSections" value="true" />
+    <option name="includeBreakCheckboxState" value="true" />
+  </component>
+</application>
