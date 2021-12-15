@@ -107,6 +107,7 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.DbmsOutput" />
+  <action id="Console.Execute.Multiline" />
   <action id="Console.History.Browse" />
   <action id="Console.Jdbc.BrowseHistory" />
   <action id="Console.TableResult.AddRow" />
@@ -125,6 +126,7 @@
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.SetNull" />
+  <action id="Console.TableResult.Submit" />
   <action id="Console.Transaction.Commit" />
   <action id="ContextHelp" />
   <action id="CopyPaths" />
@@ -142,6 +144,7 @@
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource" />
   <action id="EditorAddCaretPerSelectedLine" />
   <action id="EditorAddOrRemoveCaret" />
@@ -181,6 +184,7 @@
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="EditorShowGutterIconTooltip" />
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleColumnMode" />
   <action id="EditorToggleShowWhitespaces" />
   <action id="EditorToggleUseSoftWraps">
@@ -351,7 +355,9 @@
   <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
   <action id="RecentLocations" />
-  <action id="Refactorings.QuickListPopupAction" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -441,6 +447,7 @@
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl f" />
   </action>
   <action id="SmartStepInto" />
+  <action id="SplitChooser.Duplicate" />
   <action id="StepInto" />
   <action id="StepOut" />
   <action id="StepOver" />
@@ -457,6 +464,7 @@
   <action id="SwitcherPreviousProblem" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Synchronize" />
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
