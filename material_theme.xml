@@ -4,8 +4,8 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="styledDirectories" value="true" />
+    <option name="useMaterialFont" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
@@ -25,7 +25,7 @@
     <option name="accentColor" value="84ffff" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
-    <option name="version" value="6.9.1" />
+    <option name="version" value="6.10.1" />
     <option name="tabHighlightPosition" value="Full" />
   </component>
 </application>
