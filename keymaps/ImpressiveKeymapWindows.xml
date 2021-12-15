@@ -277,7 +277,7 @@
   <action id="HelpTopics" />
   <action id="HideActiveWindow" />
   <action id="HideAllWindows">
-    <keyboard-shortcut first-keystroke="ctrl alt escape" />
+    <keyboard-shortcut first-keystroke="ctrl alt released f1" />
   </action>
   <action id="HighlightUsagesInFile" />
   <action id="HippieCompletion" />
