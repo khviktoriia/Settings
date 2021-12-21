@@ -313,9 +313,7 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="ctrl alt released down" />
-  </action>
+  <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextOccurence" />
   <action id="NextProjectWindow" />
