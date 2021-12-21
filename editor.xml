@@ -54,6 +54,11 @@
         <option value="Rust.rust.type.hints" />
       </set>
     </option>
+    <option name="disabledLanguages">
+      <set>
+        <option value="ObjectiveC" />
+      </set>
+    </option>
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
