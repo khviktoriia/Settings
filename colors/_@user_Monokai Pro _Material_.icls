@@ -1,10 +1,10 @@
 <scheme name="_@user_Monokai Pro (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-12-17T10:22:21</property>
-    <property name="ide">Rider</property>
-    <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2021-12-17T10:23:16</property>
+    <property name="created">2021-12-21T11:03:31</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2021.3.0.0</property>
+    <property name="modified">2021-12-21T11:03:40</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -31,20 +31,36 @@
     <option name="ActionButton.hoverBackground" value="5b595c50" />
     <option name="ActionButton.iconTextForeground" value="939293" />
     <option name="ActionButton.pressedBackground" value="5b595c" />
+    <option name="Bookmark.Mnemonic.iconBackground" value="403e41" />
+    <option name="Bookmark.Mnemonic.iconBorderColor" value="403e41" />
+    <option name="Bookmark.Mnemonic.iconForeground" value="ffffff" />
+    <option name="Bookmark.iconBackground" value="ffd866" />
     <option name="BookmarkIcon.background" value="ffd866" />
+    <option name="BookmarkMnemonicIcon.background" value="403e41" />
+    <option name="BookmarkMnemonicIcon.borderColor" value="403e41" />
+    <option name="BookmarkMnemonicIcon.foreground" value="ffffff" />
     <option name="CARET_COLOR" value="fcfcfa" />
     <option name="CARET_ROW_COLOR" value="3b3539" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2d2a2e" />
     <option name="DELETED_LINES_COLOR" value="ff6188" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="ab9df2" />
+    <option name="DIAGRAM_COARSE_GRID" value="5b595c" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="fcfcfa" />
+    <option name="DIAGRAM_FINE_GRID" value="403e41" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="a9dc76" />
+    <option name="DIAGRAM_HOT_SPOTS" value="fc9867" />
     <option name="DIAGRAM_INNER_EDGE" value="f59762" />
     <option name="DIAGRAM_NODE_BACKGROUND" value="2d2a2e" />
-    <option name="DIAGRAM_NODE_HEADER" value="5b595c" />
+    <option name="DIAGRAM_NODE_BORDER" value="403e41" />
+    <option name="DIAGRAM_NODE_HEADER" value="403e41" />
+    <option name="DIAGRAM_NODE_SLOPPY_BACKGROUND" value="5b595c" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="2d2a2e" />
     <option name="DIAGRAM_NOTE_BORDER" value="fcfcfa" />
+    <option name="DIAGRAM_NOTE_SLOPPY_BACKGROUND" value="5b595c" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="ff6188" />
+    <option name="DIAGRAM_SELECTED_NODE_BORDER" value="ffd866" />
+    <option name="DIAGRAM_SELECTION_BOX_BORDER" value="ffd866" />
+    <option name="DIAGRAM_SNAPPING_LINES" value="ffd866" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="403e41" />
@@ -78,8 +94,17 @@
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="2d2a2e" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="5b595c" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="403e41" />
+    <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="ffd866" />
+    <option name="JUPYTER.CELL_UNDER_CARET_EDITOR_MODE_STRIPE_COLOR" value="5b595c" />
+    <option name="JUPYTER.CODE_CELL_BACKGROUND" value="403e41" />
+    <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="f59762" />
+    <option name="JUPYTER.GUTTER_OUTPUT_EXECUTION_COUNT" value="78dce8" />
+    <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="ffd866" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="2d2a2e" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="939293" />
     <option name="LINE_NUMBERS_COLOR" value="5b595c" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
+    <option name="LOOKUP_COLOR" value="403e41" />
     <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
     <option name="MODIFIED_LINES_COLOR" value="fc9867" />
     <option name="MODIFIED_TAB_ICON" value="ffd866" />
@@ -209,7 +234,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ffd866" />
@@ -444,7 +469,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.IMPORTANT" baseAttributes="" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
@@ -497,8 +522,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Class" baseAttributes="" />
     <option name="Closure braces">
       <value>
@@ -1052,7 +1077,7 @@
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="" />
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="939293" />
@@ -1356,6 +1381,12 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
+      <value>
+        <option name="FOREGROUND" value="fcfcfa" />
+        <option name="BACKGROUND" value="403e41" />
+      </value>
+    </option>
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="403e41" />
@@ -1438,7 +1469,9 @@
       </value>
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="fcfcfa" />
+      </value>
     </option>
     <option name="KOTLIN_QUEST">
       <value>
@@ -3074,15 +3107,15 @@
         <option name="FOREGROUND" value="fcfcfa" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="ab9df2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -3094,9 +3127,21 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PY.CLASS">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
+      </value>
+    </option>
+    <option name="PY.DEF">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD">
@@ -3174,14 +3219,14 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.BRACES" baseAttributes="" />
+    <option name="REGEXP.BRACKETS" baseAttributes="" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.META" baseAttributes="" />
+    <option name="REGEXP.PARENTHS" baseAttributes="" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="BACKGROUND" value="939393" />
@@ -3387,6 +3432,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="R_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="f59762" />
+      </value>
+    </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="78dce8" />
@@ -3541,7 +3591,6 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="ReSharper.FORMAT_STRING_ITEM" />
     <option name="ReSharper.HINT">
       <value>
         <option name="EFFECT_COLOR" value="78dce8" />
@@ -3573,7 +3622,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
@@ -3880,15 +3928,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="939293" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_DATA" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ff6188" />
