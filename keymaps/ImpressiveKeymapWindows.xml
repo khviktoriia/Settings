@@ -316,8 +316,12 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextOccurence" />
+  <action id="NextParameter" />
   <action id="NextProjectWindow" />
   <action id="NextTab" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="OpenExceptionSettings" />
   <action id="OpenInRightSplit" />
   <action id="OptimizeImports">
