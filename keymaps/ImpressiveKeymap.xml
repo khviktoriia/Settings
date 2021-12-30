@@ -150,6 +150,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
@@ -321,9 +322,13 @@
   </action>
   <action id="MoveStatementUp" />
   <action id="NextOccurence" />
+  <action id="NextParameter" />
   <action id="NextProjectWindow" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="OpenExceptionSettings" />
   <action id="OpenInRightSplit" />
@@ -432,6 +437,8 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="SearchEverywhere.NextTab" />
+  <action id="SearchEverywhere.PrevTab" />
   <action id="SelectAllOccurrences" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt context_menu" />
@@ -453,6 +460,8 @@
   </action>
   <action id="ShowSearchHistory" />
   <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowUmlDiagram" />
+  <action id="ShowUmlDiagramPopup" />
   <action id="ShowUsages" />
   <action id="SilentCodeCleanup">
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl f" />
@@ -470,6 +479,7 @@
   </action>
   <action id="SwitchCoverage" />
   <action id="SwitchHeaderSource" />
+  <action id="Switcher" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherPreviousProblem" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
