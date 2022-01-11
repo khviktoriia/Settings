@@ -50,7 +50,7 @@
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl i" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="BuildCurrentProject" />
   <action id="BuildSolutionAction">
@@ -107,6 +107,7 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.DbmsOutput" />
+  <action id="Console.Execute.Multiline" />
   <action id="Console.History.Browse" />
   <action id="Console.Jdbc.BrowseHistory" />
   <action id="Console.TableResult.AddRow" />
@@ -125,6 +126,7 @@
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.SetNull" />
+  <action id="Console.TableResult.Submit" />
   <action id="Console.Transaction.Commit" />
   <action id="ContextHelp" />
   <action id="CopyPaths" />
@@ -142,6 +144,7 @@
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource" />
   <action id="EditorAddCaretPerSelectedLine" />
   <action id="EditorAddOrRemoveCaret" />
@@ -181,6 +184,7 @@
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="EditorShowGutterIconTooltip" />
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleColumnMode" />
   <action id="EditorToggleShowWhitespaces" />
   <action id="EditorToggleUseSoftWraps">
@@ -225,7 +229,7 @@
   <action id="ForceStepInto" />
   <action id="ForceStepOver" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="windows" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl b" />
@@ -273,7 +277,7 @@
   <action id="HelpTopics" />
   <action id="HideActiveWindow" />
   <action id="HideAllWindows">
-    <keyboard-shortcut first-keystroke="ctrl alt escape" />
+    <keyboard-shortcut first-keystroke="ctrl alt released f1" />
   </action>
   <action id="HighlightUsagesInFile" />
   <action id="HippieCompletion" />
@@ -309,15 +313,11 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="ctrl alt released down" />
-  </action>
+  <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextOccurence" />
   <action id="NextProjectWindow" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
+  <action id="NextTab" />
   <action id="OpenExceptionSettings" />
   <action id="OpenInRightSplit" />
   <action id="OptimizeImports">
@@ -337,9 +337,7 @@
   <action id="PopupHector" />
   <action id="PreviousOccurence" />
   <action id="PreviousProjectWindow" />
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
+  <action id="PreviousTab" />
   <action id="Print" />
   <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations" />
@@ -355,7 +353,9 @@
   <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
   <action id="RecentLocations" />
-  <action id="Refactorings.QuickListPopupAction" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -445,6 +445,7 @@
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl f" />
   </action>
   <action id="SmartStepInto" />
+  <action id="SplitChooser.Duplicate" />
   <action id="StepInto" />
   <action id="StepOut" />
   <action id="StepOver" />
@@ -461,6 +462,7 @@
   <action id="SwitcherPreviousProblem" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Synchronize" />
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
