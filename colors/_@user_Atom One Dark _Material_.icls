@@ -4,7 +4,7 @@
     <property name="created">2022-01-15T03:08:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-15T17:38:49</property>
+    <property name="modified">2022-01-15T18:29:07</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -115,7 +115,7 @@
     <option name="MT_FILESTATUS_COPIED" value="98c379" />
     <option name="MT_FILESTATUS_DELETED" value="dc7a71" />
     <option name="MT_FILESTATUS_HIJACKED" value="c679dd" />
-    <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="e6eabb" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
@@ -486,6 +486,7 @@
       <value>
         <option name="FOREGROUND" value="c679dd" />
         <option name="EFFECT_COLOR" value="c679dd" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -2827,8 +2828,9 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="d3dae3" />
-        <option name="BACKGROUND" value="262b33" />
+        <option name="FOREGROUND" value="e6eabb" />
+        <option name="BACKGROUND" value="f45424" />
+        <option name="ERROR_STRIPE_COLOR" value="717171" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
