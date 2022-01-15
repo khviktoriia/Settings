@@ -1,0 +1,99 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFileAssociations">
+      <SelectedAssociations>
+        <option name="ownAssociations">
+          <map>
+            <entry key="PHP">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.(php[st0-9]?)$" />
+                  <option name="pattern" value=".*\.(php[st0-9]?)$" />
+                  <option name="enabled" value="false" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="PHP" />
+                  <option name="icon" value="/icons/files/php.svg" />
+                  <option name="priority" value="1" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="Python">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.(py|ipy|python|py[pt3iwzc]|whl|pep)$" />
+                  <option name="pattern" value=".*\.(py|ipy|python|py[pt3iwzc]|whl|pep)$" />
+                  <option name="enabled" value="false" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="Python" />
+                  <option name="icon" value="/icons/files/python.svg" />
+                  <option name="priority" value="1" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="Python 2">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.(pyde|gypi?|tac|xpy|wsgi|smk|rpy)$" />
+                  <option name="pattern" value=".*\.(pyde|gypi?|tac|xpy|wsgi|smk|rpy)$" />
+                  <option name="enabled" value="false" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="Python 2" />
+                  <option name="icon" value="/icons/files/python.svg" />
+                  <option name="priority" value="1" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="XML">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.(xml|fxml|jrxml|jnlp|pom|rng|tld|wsdl|xsd|xsl|xslt|xul)$" />
+                  <option name="pattern" value=".*\.(xml|fxml|jrxml|jnlp|pom|rng|tld|wsdl|xsd|xsl|xslt|xul)$" />
+                  <option name="enabled" value="false" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="XML" />
+                  <option name="icon" value="/icons/files/xml.svg" />
+                  <option name="priority" value="1" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="YAML">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.(yml|yaml|info)$" />
+                  <option name="pattern" value=".*\.(yml|yaml|info)$" />
+                  <option name="enabled" value="false" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="YAML" />
+                  <option name="icon" value="/icons/files/yaml.svg" />
+                  <option name="priority" value="1" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+    <option name="selectedFolderAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER" />
+        <option name="ownAssociations">
+          <map>
+            <entry key="acre">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?acre$" />
+                  <option name="pattern" value="^[\._]?acre$" />
+                  <option name="enabled" value="false" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="acre" />
+                  <option name="icon" value="/acre.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>
