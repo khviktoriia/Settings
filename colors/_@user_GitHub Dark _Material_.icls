@@ -4,19 +4,9 @@
     <property name="created">2022-01-15T02:03:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-15T19:28:10</property>
+    <property name="modified">2022-01-15T20:17:33</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -25,6 +15,7 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="28a745" />
     <option name="ANNOTATIONS_COLOR" value="fafbfc" />
@@ -2763,6 +2754,12 @@
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="d1d5da" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="BACKGROUND" value="23292e" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">

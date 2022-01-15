@@ -4,7 +4,7 @@
     <property name="created">2022-01-15T03:39:21</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-15T17:32:09</property>
+    <property name="modified">2022-01-15T20:17:33</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1348,27 +1348,27 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="" />
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="123a37" />
+        <option name="BACKGROUND" value="33382f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="93a3b" />
+        <option name="BACKGROUND" value="293834" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="123144" />
+        <option name="BACKGROUND" value="332f3d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="63943" />
+        <option name="BACKGROUND" value="26373b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="27282f" />
+        <option name="BACKGROUND" value="3f262a" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -4343,7 +4343,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="2b36" />
+        <option name="BACKGROUND" value="23292e" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
