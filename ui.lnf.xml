@@ -7,16 +7,19 @@
     <option name="DISABLE_MNEMONICS" value="false" />
     <option name="EDITOR_TAB_LIMIT" value="16" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="SHOW_FILE_ICONS_IN_TABS" value="false" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
+    <option name="SHOW_TABS_TOOLTIPS" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>

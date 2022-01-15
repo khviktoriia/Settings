@@ -1,31 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="invertedSelectionColor" value="true" />
-    <option name="styledDirectories" value="true" />
-    <option name="useMaterialFont" value="true" />
-    <option name="accentScrollbars" value="false" />
     <option name="allowDataCollection" value="true" />
-    <option name="compactSidebar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
-    <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="isInvertedSelectionColor" value="true" />
-    <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
-    <option name="themedScrollbars" value="false" />
-    <option name="tabFontSizeEnabled" value="true" />
-    <option name="useMaterialFont2" value="true" />
-    <option name="customSidebarHeight" value="22" />
-    <option name="tabFontSize" value="11" />
-    <option name="highlightThickness" value="4" />
-    <option name="indicatorThickness" value="3" />
-    <option name="leftTreeIndent" value="10" />
-    <option name="tabsHeight" value="35" />
-    <option name="accentColor" value="9da32c" />
-    <option name="highlightColor" value="534065" />
+    <option name="highlightThickness" value="5" />
+    <option name="accentColor" value="c4d33a" />
+    <option name="highlightColor" value="5e7887" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
     <option name="version" value="6.12.2" />
