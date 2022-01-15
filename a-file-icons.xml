@@ -2,15 +2,16 @@
   <component name="AtomFileIconsConfig">
     <option name="accentColorEnabled" value="true" />
     <option name="enabledIcons" value="false" />
+    <option name="enabledPsiIcons" value="false" />
     <option name="enabledUIIcons" value="false" />
     <option name="themedColorEnabled" value="true" />
     <option name="isEnabledIcons" value="false" />
     <option name="isEnabledUIIcons" value="false" />
-    <option name="monochromeColor" value="ffffff" />
+    <option name="monochromeColor" value="f9826c" />
+    <option name="isEnabledPsiIcons" value="false" />
     <option name="isAccentColorEnabled" value="true" />
-    <option name="accentColor" value="ffd866" />
+    <option name="accentColor" value="f68667" />
     <option name="isThemedColorEnabled" value="true" />
-    <option name="themedColor" value="4b526d" />
-    <option name="hasBigIcons" value="true" />
+    <option name="themedColor" value="798092" />
   </component>
 </application>
