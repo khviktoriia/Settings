@@ -3,7 +3,7 @@
     <property name="created">2021-08-07T01:12:25</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.1.5.0.0</property>
-    <property name="modified">2021-08-07T01:12:50</property>
+    <property name="modified">2022-01-15T02:04:03</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -18,4 +18,31 @@
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
   </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3a3a2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="313a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3a313a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2e3939" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="452828" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
