@@ -5,33 +5,32 @@
     <option name="compactTables" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="styledDirectories" value="true" />
     <option name="useMaterialFont" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="isActiveBoldTab" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="isStyledDirectories" value="true" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="themedScrollbars" value="false" />
-    <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="tabFontSize" value="11" />
+    <option name="highlightThickness" value="1" />
+    <option name="indicatorThickness" value="3" />
+    <option name="leftTreeIndent" value="10" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="35" />
     <option name="accentColor" value="f9826c" />
-    <option name="highlightColor" value="e5c95c" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="highlightColor" value="f68667" />
+    <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
     <option name="version" value="6.12.2" />
-    <option name="tabHighlightPosition" value="Full" />
   </component>
 </application>
