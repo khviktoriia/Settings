@@ -4,7 +4,7 @@
     <property name="created">2022-01-15T03:08:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-15T03:17:15</property>
+    <property name="modified">2022-01-15T16:02:24</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -68,7 +68,7 @@
     <option name="DOC_COMMENT_LINK" value="56b6c2" />
     <option name="FILESTATUS_ADDED" value="98c379" />
     <option name="FILESTATUS_COPIED" value="98c379" />
-    <option name="FILESTATUS_DELETED" value="59626f" />
+    <option name="FILESTATUS_DELETED" value="dc7a71" />
     <option name="FILESTATUS_HIJACKED" value="c679dd" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
@@ -86,7 +86,7 @@
     <option name="FILESTATUS_SWITCHED" value="61aeef" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="56b6c2" />
-    <option name="FILESTATUS_changelistConflict" value="ff6347" />
+    <option name="FILESTATUS_changelistConflict" value="dc7a71" />
     <option name="FILESTATUS_modifiedOutside" value="61aeef" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="282a36" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
@@ -111,9 +111,9 @@
     <option name="MODIFIED_TAB_ICON" value="2979ff" />
     <option name="MT_ADDED" value="73c990" />
     <option name="MT_DELETED" value="ff6347" />
-    <option name="MT_FILESTATUS_ADDED" value="98c379" />
+    <option name="MT_FILESTATUS_ADDED" value="" />
     <option name="MT_FILESTATUS_COPIED" value="98c379" />
-    <option name="MT_FILESTATUS_DELETED" value="59626f" />
+    <option name="MT_FILESTATUS_DELETED" value="dc7a71" />
     <option name="MT_FILESTATUS_HIJACKED" value="c679dd" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
@@ -128,8 +128,8 @@
     <option name="MT_FILESTATUS_SUPPRESSED" value="abb2bf" />
     <option name="MT_FILESTATUS_SWITCHED" value="61aeef" />
     <option name="MT_FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="MT_FILESTATUS_addedOutside" value="56b6c2" />
-    <option name="MT_FILESTATUS_changelistConflict" value="ff6347" />
+    <option name="MT_FILESTATUS_addedOutside" value="" />
+    <option name="MT_FILESTATUS_changelistConflict" value="dc7a71" />
     <option name="MT_FILESTATUS_modifiedOutside" value="61aeef" />
     <option name="MT_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -486,7 +486,7 @@
       <value>
         <option name="FOREGROUND" value="c679dd" />
         <option name="EFFECT_COLOR" value="c679dd" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -1444,13 +1444,16 @@
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2814,10 +2817,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="383d48" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="557ecf" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2827,8 +2828,8 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="282c34" />
+        <option name="FOREGROUND" value="d3dae3" />
+        <option name="BACKGROUND" value="262b33" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

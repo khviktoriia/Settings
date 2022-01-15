@@ -4,7 +4,7 @@
     <property name="created">2022-01-15T03:08:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-15T03:17:49</property>
+    <property name="modified">2022-01-15T15:53:58</property>
     <property name="originalScheme">Arc Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -998,7 +998,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="cf6a4c" />
+        <option name="FOREGROUND" value="bb7474" />
       </value>
     </option>
     <option name="HTTP_HEADER_FIELD_VALUE">

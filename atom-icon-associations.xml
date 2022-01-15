@@ -83,11 +83,22 @@
                 <RegexAssociation>
                   <option name="matcher" value="^[\._]?acre$" />
                   <option name="pattern" value="^[\._]?acre$" />
-                  <option name="enabled" value="false" />
                   <option name="touched" value="true" />
                   <option name="iconType" value="FOLDER" />
                   <option name="name" value="acre" />
                   <option name="icon" value="/acre.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="mainPage">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^.*\.mainPage$" />
+                  <option name="pattern" value="^.*\.mainPage$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="mainPage" />
+                  <option name="icon" value="$USER_HOME$/Pictures/Иконки/WebStorm/red-folder.svg" />
+                  <option name="priority" value="10000" />
                 </RegexAssociation>
               </value>
             </entry>
