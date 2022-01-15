@@ -4,7 +4,7 @@
     <property name="created">2022-01-15T02:03:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-15T17:38:50</property>
+    <property name="modified">2022-01-15T18:59:27</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -89,7 +89,7 @@
     <option name="FILESTATUS_changelistConflict" value="f97583" />
     <option name="FILESTATUS_modifiedOutside" value="b392f0" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="282e33" />
-    <option name="GUTTER_BACKGROUND" value="23292e" />
+    <option name="GUTTER_BACKGROUND" value="23292f" />
     <option name="INDENT_GUIDE" value="2f363d" />
     <option name="INFORMATION_HINT" value="24292e" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="2f363d" />
@@ -103,7 +103,7 @@
     <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="f9826c" />
     <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="1b1f23" />
     <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="959da5" />
-    <option name="LINE_NUMBERS_COLOR" value="e5c95c" />
+    <option name="LINE_NUMBERS_COLOR" value="444d56" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="e1e4e8" />
     <option name="LOOKUP_COLOR" value="2f363d" />
     <option name="METHOD_SEPARATORS_COLOR" value="586069" />
@@ -137,7 +137,6 @@
     <option name="NOTIFICATION_BACKGROUND" value="32f62" />
     <option name="PROMOTION_PANE" value="24292e" />
     <option name="QUESTION_HINT" value="5264c" />
-    <option name="READONLY_BACKGROUND" value="23292e" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="2f363d" />
     <option name="RECENT_LOCATIONS_SELECTION" value="24292e" />
     <option name="RIGHT_MARGIN_COLOR" value="2f363d" />
@@ -1109,7 +1108,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="daf96c" />
+        <option name="EFFECT_COLOR" value="17e5e6" />
       </value>
     </option>
     <option name="IGNORE.BRACKET">
@@ -1167,27 +1166,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2c4009" />
+        <option name="BACKGROUND" value="33382f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="23400e" />
+        <option name="BACKGROUND" value="2a3834" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2c3717" />
+        <option name="BACKGROUND" value="332f3d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="203e15" />
+        <option name="BACKGROUND" value="27373b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3a2c0d" />
+        <option name="BACKGROUND" value="40262a" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -2766,12 +2765,6 @@
         <option name="FOREGROUND" value="d1d5da" />
       </value>
     </option>
-    <option name="MT_DIRECTORIES">
-      <value>
-        <option name="FOREGROUND" value="d1d5da" />
-        <option name="BACKGROUND" value="24292e" />
-      </value>
-    </option>
     <option name="NG.EXPANSION_FORM">
       <value>
         <option name="EFFECT_TYPE" value="5" />
@@ -3471,7 +3464,7 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="23292e" />
+        <option name="BACKGROUND" value="f8e71c" />
       </value>
     </option>
     <option name="SELECTED_CELL">
@@ -3634,7 +3627,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d1d5da" />
-        <option name="BACKGROUND" value="1c3105" />
+        <option name="BACKGROUND" value="24292e" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -3645,7 +3638,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e5c95c" />
+        <option name="FOREGROUND" value="79b8ff" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="79b8ff" />
       </value>
@@ -3738,12 +3731,12 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="daf96c" />
+        <option name="EFFECT_COLOR" value="17e5e6" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1c3105" />
+        <option name="BACKGROUND" value="4d4523" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
