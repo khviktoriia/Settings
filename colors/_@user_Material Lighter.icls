@@ -4,7 +4,7 @@
     <property name="created">2021-08-16T19:50:45</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-16T21:48:17</property>
+    <property name="modified">2022-02-20T23:53:30</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -58,6 +58,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="91b859" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="85e89d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="945eb8" />
     <option name="FILESTATUS_MODIFIED" value="39adb5" />
@@ -2751,6 +2753,13 @@
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="c4b3a3" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="90a4ae" />
+        <option name="BACKGROUND" value="fafafa" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">

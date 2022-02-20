@@ -1,0 +1,59 @@
+<keymap version="1" name="Edited macOS" parent="Mac OS X 10.5+">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="EditorFocusGutter" />
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="shift j" />
+  </action>
+  <action id="IdeScriptingConsole">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="List-selectLastRowExtendSelection" />
+  <action id="MethodUp" />
+  <action id="MoveElementLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="MoveElementRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
+</keymap>

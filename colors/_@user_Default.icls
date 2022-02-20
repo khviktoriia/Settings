@@ -1,10 +1,10 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-08-07T01:12:25</property>
-    <property name="ide">Rider</property>
-    <property name="ideVersion">2021.1.5.0.0</property>
-    <property name="modified">2022-02-21T00:07:59</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="created">2022-01-16T10:40:13</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2021.3.1.0.0</property>
+    <property name="modified">2022-02-20T23:51:34</property>
+    <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e887" />
@@ -24,6 +24,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -33,11 +34,7 @@
   </colors>
   <attributes>
     <option name="MT_DIRECTORIES">
-      <value>
-        <option name="FOREGROUND" value="c8d3f5" />
-        <option name="BACKGROUND" value="222436" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
+      <value />
     </option>
   </attributes>
 </scheme>
