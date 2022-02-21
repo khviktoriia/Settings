@@ -22,7 +22,9 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
+    <option name="customSidebarHeight" value="30" />
     <option name="highlightThickness" value="4" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="40" />
     <option name="accentColor" value="738fff" />
     <option name="secondAccentColor" value="6691ff" />
