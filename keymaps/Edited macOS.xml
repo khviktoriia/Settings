@@ -39,8 +39,19 @@
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="shift j" />
   </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="IdeScriptingConsole">
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -75,6 +86,7 @@
   <action id="ServiceView.AddService">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="Uml.NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
