@@ -124,6 +124,9 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="meta alt q" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
