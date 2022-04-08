@@ -42,10 +42,10 @@
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorChooseLookupItemReplace" />
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="alt n" />
@@ -79,22 +79,22 @@
   </action>
   <action id="EditorFocusGutter" />
   <action id="EditorJoinLines">
-    <keyboard-shortcut first-keystroke="shift j" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
   <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
   <action id="EditorLineEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift alt d" />
+    <keyboard-shortcut first-keystroke="shift alt semicolon" />
   </action>
   <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="alt a" />
+    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="EditorLineStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift alt a" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
   <action id="EditorMatchBrace" />
   <action id="EditorMoveToPageBottom">
@@ -110,15 +110,23 @@
     <keyboard-shortcut first-keystroke="shift alt p" second-keystroke="t" />
   </action>
   <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="alt dead_acute" />
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="EditorNextWordWithSelection">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
-  <action id="EditorPageDown" />
-  <action id="EditorPageDownWithSelection" />
-  <action id="EditorPageUp" />
-  <action id="EditorPageUpWithSelection" />
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorPageDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="EditorPageUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -134,6 +142,19 @@
   <action id="EditorScrollToCenter" />
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="ctrl alt t" second-keystroke="t" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
+  <action id="EditorShowGutterIconTooltip">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="EditorSortLines">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="alt y" />
