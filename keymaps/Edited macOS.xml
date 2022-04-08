@@ -49,6 +49,12 @@
   <action id="EditorCreateRectangularSelection" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag" />
   <action id="EditorCutLineEnd" />
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
