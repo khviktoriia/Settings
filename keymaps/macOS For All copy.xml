@@ -1,1 +1,8 @@
-<keymap version="1" name="macOS For All copy" parent="macOS For All" />
+<keymap version="1" name="macOS For All copy" parent="macOS For All">
+  <action id="EditorAddRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="meta alt button3" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+</keymap>
