@@ -128,8 +128,12 @@
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
-  <action id="EditorScrollDown">
-    <keyboard-shortcut first-keystroke="shift d" />
+  <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="ctrl alt b" second-keystroke="b" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="ctrl alt t" second-keystroke="t" />
   </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="alt y" />
