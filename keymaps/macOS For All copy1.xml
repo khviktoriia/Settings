@@ -14,6 +14,12 @@
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt minus" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="Docker.RemoteServers.StopComposeApp" />
   <action id="Docker.RemoteServers.StopComposeService" />
   <action id="Docker.RemoteServers.StopContainer" />
@@ -106,6 +112,9 @@
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="up" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="EditorSortLines">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
@@ -124,6 +133,9 @@
   </action>
   <action id="EditorTextStartWithSelection">
     <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift alt equals" />
@@ -161,6 +173,7 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="RecentLocations" />
   <action id="RerunTests" />
   <action id="RunDashboard.Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
