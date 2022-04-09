@@ -72,6 +72,9 @@
   <action id="EditorAddCaretPerSelectedLine">
     <keyboard-shortcut first-keystroke="meta alt e" />
   </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="up" />
   </action>
@@ -91,7 +94,7 @@
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
   <action id="EditorCutLineEnd">
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt back_space" />
@@ -166,6 +169,9 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="ctrl meta f12" />
+  </action>
+  <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
   <action id="EditorSelectWord">
@@ -190,7 +196,6 @@
   <action id="EditorTextStartWithSelection">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
-  <action id="EditorUnSelectWord" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift alt equals" />
   </action>
@@ -293,12 +298,20 @@
   <action id="StopBackgroundProcesses">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="Terminal.CopySelectedText">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
   <action id="Terminal.Paste">
-    <keyboard-shortcut first-keystroke="shift insert" />
     <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="Terminal.SmartCommandExecution.Debug">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="Terminal.SmartCommandExecution.Run">
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="meta f8" />
