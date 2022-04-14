@@ -1,4 +1,4 @@
-<keymap version="1" name="macOS For All copy1" parent="macOS For All">
+<keymap version="1" name="Бельчачья macOS For All" parent="macOS For All">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -93,6 +93,9 @@
   <action id="EditorCodeBlockStartWithSelection">
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="ctrl meta enter" />
+  </action>
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
@@ -166,6 +169,9 @@
     <keyboard-shortcut first-keystroke="shift alt q" />
   </action>
   <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="ctrl meta f11" />
+  </action>
+  <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="EditorScrollTop">
@@ -173,6 +179,9 @@
   </action>
   <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="shift meta alt e" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift meta e" />
@@ -195,6 +204,9 @@
   </action>
   <action id="EditorTextStartWithSelection">
     <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift alt equals" />
@@ -257,7 +269,18 @@
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
-  <action id="RecentLocations" />
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="RecentChanges">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="RerunTests" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
@@ -269,7 +292,7 @@
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SaveAs">
-    <keyboard-shortcut first-keystroke="shift meta s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
@@ -291,12 +314,21 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="ShowRecentFindUsagesGroup">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="SmartUnSelect" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
   <action id="StopBackgroundProcesses">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
+  <action id="SwitcherIterateItems">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="SwitcherRecentEditedChangedToggleCheckBox">
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
@@ -336,6 +368,6 @@
   </action>
   <action id="hg4idea.QPushAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction">
-    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
   </action>
 </keymap>
