@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/WebstormProjects/Styled Components/src/components/MainSlide.tsx" value="TypeScript JSX" />
     <file url="file://$USER_HOME$/WebstormProjects/project1/src/App.js" value="JavaScript" />
   </component>
 </application>
