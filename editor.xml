@@ -52,6 +52,7 @@
       <set>
         <option value="Rust.chain-method.hints" />
         <option value="Rust.rust.type.hints" />
+        <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
     <option name="disabledLanguages">
