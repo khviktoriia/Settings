@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="App.js" type="AUTO_DETECTED" />
       <mapping pattern="device.ts" type="AUTO_DETECTED" />
+      <mapping pattern="yarn" type="AUTO_DETECTED" />
       <mapping pattern="device" type="AUTO_DETECTED" />
       <mapping pattern="fdsf" type="AUTO_DETECTED" />
       <mapping pattern="MainSlide.tsx" type="AUTO_DETECTED" />
