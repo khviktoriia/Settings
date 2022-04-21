@@ -1,34 +1,18 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
-    <option name="compactStatusBar" value="true" />
-    <option name="compactTables" value="true" />
-    <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="useMaterialFont" value="true" />
     <option name="accentMode" value="true" />
     <option name="allowDataCollection" value="true" />
-    <option name="compactDropdowns" value="true" />
-    <option name="compactSidebar" value="true" />
-    <option name="isActiveBoldTab" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
-    <option name="isCompactMenus" value="true" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="isCompactTables" value="true" />
-    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
-    <option name="treeFontSizeEnabled" value="true" />
-    <option name="tabFontSizeEnabled" value="true" />
-    <option name="useMaterialFont2" value="true" />
     <option name="useColoredDirectories" value="true" />
-    <option name="customSidebarHeight" value="28" />
     <option name="highlightThickness" value="3" />
     <option name="tabsHeight" value="40" />
-    <option name="accentColor" value="8192f6" />
-    <option name="secondAccentColor" value="6691ff" />
+    <option name="accentColor" value="8d90df" />
+    <option name="secondAccentColor" value="a5a5f5" />
     <option name="highlightColor" value="ffffff" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
