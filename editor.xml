@@ -13,7 +13,7 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
+    <option name="AUTOREPARSE_DELAY" value="100" />
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="EditorSettings">
@@ -40,7 +40,6 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="TOOLTIPS_DELAY_MS" value="100" />
@@ -53,7 +52,6 @@
       <set>
         <option value="Rust.chain-method.hints" />
         <option value="Rust.rust.type.hints" />
-        <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
     <option name="disabledLanguages">

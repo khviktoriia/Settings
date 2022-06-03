@@ -49,12 +49,6 @@
   <action id="EditorCreateRectangularSelection" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag" />
   <action id="EditorCutLineEnd" />
-  <action id="EditorDeleteToWordEnd">
-    <keyboard-shortcut first-keystroke="shift alt e" />
-  </action>
-  <action id="EditorDeleteToWordStart">
-    <keyboard-shortcut first-keystroke="shift alt s" />
-  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
@@ -79,20 +73,16 @@
   </action>
   <action id="EditorMatchBrace" />
   <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="EditorNextWordWithSelection">
-    <keyboard-shortcut first-keystroke="shift alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
-  <action id="EditorPageDown" />
-  <action id="EditorPageDownWithSelection" />
-  <action id="EditorPageUp" />
-  <action id="EditorPageUpWithSelection" />
   <action id="EditorPreviousWord">
-    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="EditorPreviousWordWithSelection">
-    <keyboard-shortcut first-keystroke="shift alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -134,9 +124,6 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
-  <action id="NewFile">
-    <keyboard-shortcut first-keystroke="meta alt q" />
-  </action>
   <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -173,7 +160,6 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="UsageFiltering.ReadAccess" />
-  <action id="UsageGrouping.FileStructure" />
   <action id="XDebugger.AttachToProcess" />
   <action id="ZoomCurrentWindow" />
 </keymap>
