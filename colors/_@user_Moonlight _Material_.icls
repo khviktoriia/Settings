@@ -4,7 +4,7 @@
     <property name="created">2021-07-09T05:58:59</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2022-04-21T15:23:31</property>
+    <property name="modified">2022-06-08T23:43:39</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -41,8 +41,8 @@
     <option name="BookmarkMnemonicIcon.borderColor" value="444a73" />
     <option name="BookmarkMnemonicIcon.foreground" value="ffffff" />
     <option name="CARET_COLOR" value="4fd6be" />
-    <option name="CARET_ROW_COLOR" value="222436" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1e2030" />
+    <option name="CARET_ROW_COLOR" value="232731" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="23262f" />
     <option name="DELETED_LINES_COLOR" value="ff5370" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="baacff" />
     <option name="DIAGRAM_COARSE_GRID" value="444a73" />
@@ -92,7 +92,7 @@
     <option name="FILESTATUS_changelistConflict" value="ffdb8e" />
     <option name="FILESTATUS_modifiedOutside" value="70b0ff" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="222436" />
-    <option name="GUTTER_BACKGROUND" value="222437" />
+    <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="INDENT_GUIDE" value="444a73" />
     <option name="INFORMATION_HINT" value="222436" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="222436" />
@@ -106,16 +106,16 @@
     <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="74a0f1" />
     <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="222436" />
     <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="a9b8e8" />
-    <option name="LINE_NUMBERS_COLOR" value="444a73" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="828bb8" />
+    <option name="LINE_NUMBERS_COLOR" value="5e5e5e" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
     <option name="LOOKUP_COLOR" value="2f334d" />
-    <option name="METHOD_SEPARATORS_COLOR" value="444a73" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="34d3fb" />
     <option name="MODIFIED_TAB_ICON" value="4fd6be" />
     <option name="MT_ADDED" value="7af8ca" />
     <option name="MT_DELETED" value="ff5370" />
     <option name="MT_FILESTATUS_ADDED" value="7af8ca" />
-    <option name="MT_FILESTATUS_COPIED" value="7af8ca" />
+    <option name="MT_FILESTATUS_COPIED" value="737ce5" />
     <option name="MT_FILESTATUS_DELETED" value="ff5370" />
     <option name="MT_FILESTATUS_HIJACKED" value="baacff" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ff5370" />
@@ -132,7 +132,7 @@
     <option name="MT_FILESTATUS_SWITCHED" value="baacff" />
     <option name="MT_FILESTATUS_UNKNOWN" value="7af8ca" />
     <option name="MT_FILESTATUS_addedOutside" value="baacff" />
-    <option name="MT_FILESTATUS_changelistConflict" value="ffdb8e" />
+    <option name="MT_FILESTATUS_changelistConflict" value="737ce5" />
     <option name="MT_FILESTATUS_modifiedOutside" value="70b0ff" />
     <option name="MT_IDEA_FILESTATUS_IGNORED" value="bcc4d6" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="bcc4d6" />
@@ -146,13 +146,12 @@
     <option name="NOT_CHANGED" value="bcc4d6" />
     <option name="PROMOTION_PANE" value="222436" />
     <option name="QUESTION_HINT" value="222436" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="222436" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="828bb8" />
     <option name="SELECTED_INDENT_GUIDE" value="444a73" />
     <option name="SELECTED_TEARLINE_COLOR" value="444a73" />
-    <option name="SELECTION_BACKGROUND" value="444a73" />
-    <option name="SELECTION_FOREGROUND" value="ffffff" />
-    <option name="SEPARATOR_BELOW_COLOR" value="222436" />
+    <option name="SELECTION_BACKGROUND" value="565891" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="222436" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="4fd6bec0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="222436" />
@@ -172,7 +171,7 @@
     <option name="ScrollBar.trackColor" value="222436" />
     <option name="TAB_UNDERLINE" value="70b0ff" />
     <option name="TAB_UNDERLINE_INACTIVE" value="70b0ffc0" />
-    <option name="TEARLINE_COLOR" value="2f334d" />
+    <option name="TEARLINE_COLOR" value="" />
     <option name="TOOLTIP" value="222436" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="7e8eda" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
@@ -1163,10 +1162,7 @@
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="33e5d" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
-      </value>
+      <value />
     </option>
     <option name="IGNORE.BRACKET">
       <value>
@@ -1483,13 +1479,16 @@
         <option name="FOREGROUND" value="baacff" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="7fdaff" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2816,10 +2815,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="191a2a" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="4fd6be" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -3726,7 +3723,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c8d3f5" />
-        <option name="BACKGROUND" value="222437" />
+        <option name="BACKGROUND" value="272c35" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3825,10 +3822,7 @@
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="4a4d50" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
-      </value>
+      <value />
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
