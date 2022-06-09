@@ -95,10 +95,10 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="alt c" second-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="alt c" second-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="alt v" />
