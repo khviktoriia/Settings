@@ -10,7 +10,6 @@
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
-    <option name="showOverlays" value="false" />
     <option name="useColoredDirectories" value="true" />
     <option name="highlightThickness" value="3" />
     <option name="settingsSelectedTab" value="4" />
@@ -18,7 +17,7 @@
     <option name="accentColor" value="a7affd" />
     <option name="secondAccentColor" value="a5a5f5" />
     <option name="highlightColor" value="ffffff" />
-    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="selectedTheme" value="MOONLIGHT" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
     <option name="version" value="7.5.2" />
     <option name="tabHighlightPosition" value="Bottom" />
