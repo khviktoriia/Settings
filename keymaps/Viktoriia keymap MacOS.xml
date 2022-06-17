@@ -1,4 +1,4 @@
-<keymap version="1" name="Бельчачья macOS For All" parent="macOS For All">
+<keymap version="1" name="Viktoriia keymap MacOS" parent="macOS For All">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
