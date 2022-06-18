@@ -4,7 +4,7 @@
     <property name="created">2022-06-17T17:28:21</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-17T19:01:28</property>
+    <property name="modified">2022-06-18T11:10:28</property>
     <property name="originalScheme">_@user_Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -123,12 +123,13 @@
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="e8923b" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="e8923b" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="e8923b" />
+    <option name="MT_FILESTATUS_IDEA_SVN_REPLACED" value="d0d0d0" />
     <option name="MT_FILESTATUS_MERGED" value="70b0ff" />
     <option name="MT_FILESTATUS_MODIFIED" value="e8923b" />
     <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="34d3fb" />
     <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="34d3fb" />
     <option name="MT_FILESTATUS_RENAMED" value="baacff" />
-    <option name="MT_FILESTATUS_SUPPRESSED" value="bcc4d6" />
+    <option name="MT_FILESTATUS_SUPPRESSED" value="d0d0d0" />
     <option name="MT_FILESTATUS_SWITCHED" value="baacff" />
     <option name="MT_FILESTATUS_UNKNOWN" value="7af8ca" />
     <option name="MT_FILESTATUS_addedOutside" value="ff99" />
@@ -2833,6 +2834,13 @@
         <option name="FOREGROUND" value="f3c1ff" />
       </value>
     </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="868686" />
+        <option name="BACKGROUND" value="272c35" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="NG.BANANA_BINDING_ATTR_NAME">
       <value>
         <option name="FOREGROUND" value="ffdb8e" />
@@ -3796,7 +3804,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c8d3f5" />
+        <option name="FOREGROUND" value="cccccc" />
         <option name="BACKGROUND" value="272c35" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
