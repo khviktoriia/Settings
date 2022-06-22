@@ -17,19 +17,21 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
-  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="ActivateCommitToolWindow">
-    <keyboard-shortcut first-keystroke="meta 7" />
+    <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="meta 5" />
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ActivateProblemsViewToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -42,14 +44,12 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
-  </action>
-  <action id="ActivateTypeScriptToolWindow">
-    <keyboard-shortcut first-keystroke="meta 9" />
+    <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="meta 6" />
+    <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
@@ -90,12 +90,10 @@
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
   <action id="ContextHelp" />
-  <action id="CopyAsPlainText">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="CopyReference" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
@@ -124,9 +122,7 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
-  <action id="EditorAddCaretPerSelectedLine">
-    <keyboard-shortcut first-keystroke="meta alt e" />
-  </action>
+  <action id="EditorAddCaretPerSelectedLine" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="Force touch" />
   </action>
@@ -143,6 +139,7 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl meta enter" />
   </action>
+  <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag" />
   <action id="EditorCutLineEnd" />
@@ -195,7 +192,7 @@
   <action id="EditorSelectWord" />
   <action id="EditorShowGutterIconTooltip" />
   <action id="EditorSortLines">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore">
@@ -205,6 +202,9 @@
   <action id="EditorTextEndWithSelection" />
   <action id="EditorTextStart" />
   <action id="EditorTextStartWithSelection" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="EditorToggleColumnMode" />
   <action id="EditorUnSelectWord" />
   <action id="Exit">
@@ -219,6 +219,8 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
   </action>
+  <action id="ExpressionTypeInfo" />
+  <action id="ExternalJavaDoc" />
   <action id="FileChooser.TogglePathShowing">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
@@ -228,14 +230,15 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="ctrl meta f" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
-  <action id="FindUsagesInFile">
-    <keyboard-shortcut first-keystroke="meta f7" />
-  </action>
+  <action id="FindUsagesInFile" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="right" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -247,6 +250,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="GotoImplementation" />
+  <action id="GotoNextElementUnderCaretUsage" />
+  <action id="GotoPrevElementUnderCaretUsage" />
+  <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
@@ -259,6 +265,7 @@
   <action id="Hg.Commit.And.Push.Executor">
     <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
+  <action id="HighlightUsagesInFile" />
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
@@ -291,36 +298,34 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NewDir">
-    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
   <action id="NewFile">
-    <keyboard-shortcut first-keystroke="shift meta f" />
-  </action>
-  <action id="NewProject">
-    <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="NewScratchFile">
-    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="OpenInRightSplit" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
-  <action id="ProjectFromVersionControl">
-    <keyboard-shortcut first-keystroke="shift ctrl meta p" />
-  </action>
   <action id="QuickChangeScheme" />
-  <action id="RecentChangedFiles">
-    <keyboard-shortcut first-keystroke="meta alt f" />
+  <action id="QuickImplementations">
+    <mouse-shortcut keystroke="button3 doubleClick" />
   </action>
+  <action id="QuickJavaDoc" />
   <action id="RecentChanges">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
@@ -350,7 +355,7 @@
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SaveAs">
-    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -378,18 +383,14 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
-  <action id="ShowRecentFindUsagesGroup">
-    <keyboard-shortcut first-keystroke="alt u" />
-  </action>
   <action id="ShowSearchHistory" />
   <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="meta alt p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="ShowSettingsAndFindUsages">
-    <keyboard-shortcut first-keystroke="ctrl meta alt f" />
-  </action>
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowTypeBookmarks" />
   <action id="ShowUsages">
-    <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="meta alt u" />
   </action>
   <action id="SmartUnSelect" />
   <action id="Stop">
@@ -404,6 +405,7 @@
   <action id="SwitcherRecentEditedChangedToggleCheckBox">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="Synchronize" />
   <action id="Table-selectPreviousRowExtendSelection" />
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
@@ -418,7 +420,9 @@
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ToggleBookmarkWithMnemonic" />
   <action id="ToggleFindInSelection" />
+  <action id="ToggleFullScreen" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="meta f8" />
   </action>
@@ -431,6 +435,7 @@
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
+  <action id="ViewSource" />
   <action id="XDebugger.AttachToProcess">
     <keyboard-shortcut first-keystroke="meta alt a" />
   </action>
@@ -440,11 +445,17 @@
   <action id="XDebugger.MoveWatchUp">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="meta alt e" />
   </action>
+  <action id="hg4idea.QFold" />
   <action id="hg4idea.QPushAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt s" />
   </action>
+  <action id="tasks.goto" />
 </keymap>
