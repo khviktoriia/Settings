@@ -4,7 +4,7 @@
     <property name="created">2022-06-17T17:28:21</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-18T11:10:28</property>
+    <property name="modified">2022-06-23T01:13:23</property>
     <property name="originalScheme">_@user_Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -41,7 +41,7 @@
     <option name="BookmarkMnemonicIcon.borderColor" value="444a73" />
     <option name="BookmarkMnemonicIcon.foreground" value="ffffff" />
     <option name="CARET_COLOR" value="4fd6be" />
-    <option name="CARET_ROW_COLOR" value="2d3a3a" />
+    <option name="CARET_ROW_COLOR" value="313342" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272c35" />
     <option name="DELETED_LINES_COLOR" value="ff5370" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="baacff" />
@@ -64,9 +64,10 @@
     <option name="DIAGRAM_SNAPPING_LINES" value="4fd6be" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2030" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="191a2a" />
-    <option name="DOCUMENTATION_COLOR" value="2f334d" />
+    <option name="DOCUMENTATION_COLOR" value="22272d" />
     <option name="DOC_COMMENT_GUIDE" value="444a73" />
     <option name="DOC_COMMENT_LINK" value="34d3fb" />
+    <option name="ERROR_HINT" value="22272d" />
     <option name="FILESTATUS_ADDED" value="7af8ca" />
     <option name="FILESTATUS_COPIED" value="7af8ca" />
     <option name="FILESTATUS_DELETED" value="ff5370" />
@@ -94,7 +95,7 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="222436" />
     <option name="GUTTER_BACKGROUND" value="272c35" />
     <option name="INDENT_GUIDE" value="444a73" />
-    <option name="INFORMATION_HINT" value="222436" />
+    <option name="INFORMATION_HINT" value="22272d" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="222436" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="444a73" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="2f334d" />
@@ -106,9 +107,9 @@
     <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="74a0f1" />
     <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="222436" />
     <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="a9b8e8" />
-    <option name="LINE_NUMBERS_COLOR" value="4f8381" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="828bb8" />
-    <option name="LOOKUP_COLOR" value="2f334d" />
+    <option name="LINE_NUMBERS_COLOR" value="9db2ff" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
+    <option name="LOOKUP_COLOR" value="22272d" />
     <option name="METHOD_SEPARATORS_COLOR" value="444a73" />
     <option name="MODIFIED_LINES_COLOR" value="34d3fb" />
     <option name="MODIFIED_TAB_ICON" value="4fd6be" />
@@ -125,9 +126,10 @@
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="e8923b" />
     <option name="MT_FILESTATUS_IDEA_SVN_REPLACED" value="d0d0d0" />
     <option name="MT_FILESTATUS_MERGED" value="70b0ff" />
-    <option name="MT_FILESTATUS_MODIFIED" value="e8923b" />
+    <option name="MT_FILESTATUS_MODIFIED" value="98479" />
     <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="34d3fb" />
     <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="34d3fb" />
+    <option name="MT_FILESTATUS_OBSOLETE" value="2b418d" />
     <option name="MT_FILESTATUS_RENAMED" value="baacff" />
     <option name="MT_FILESTATUS_SUPPRESSED" value="d0d0d0" />
     <option name="MT_FILESTATUS_SWITCHED" value="baacff" />
@@ -145,24 +147,26 @@
     <option name="MnemonicIcon.foreground" value="ffffff" />
     <option name="NOTIFICATION_BACKGROUND" value="191a2a" />
     <option name="NOT_CHANGED" value="bcc4d6" />
-    <option name="PROMOTION_PANE" value="222436" />
-    <option name="QUESTION_HINT" value="222436" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="222436" />
+    <option name="PROMOTION_PANE" value="22272d" />
+    <option name="QUESTION_HINT" value="22272d" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="22272d" />
     <option name="RIGHT_MARGIN_COLOR" value="828bb8" />
     <option name="SELECTED_INDENT_GUIDE" value="444a73" />
     <option name="SELECTED_TEARLINE_COLOR" value="444a73" />
     <option name="SELECTION_BACKGROUND" value="444a73" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
-    <option name="SEPARATOR_BELOW_COLOR" value="222436" />
+    <option name="SEPARATOR_BELOW_COLOR" value="282c34" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="222436" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="6879bd" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="4fd6bec0" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="222436" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="5f79d3" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="4fd6be80" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="222436" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="4fd6be" />
-    <option name="ScrollBar.Mac.hoverTrackColor" value="222436" />
-    <option name="ScrollBar.Mac.thumbColor" value="4fd6bec0" />
-    <option name="ScrollBar.Mac.trackColor" value="222436" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="9db2ff" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="9db2ff" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="6879bd" />
+    <option name="ScrollBar.Mac.thumbColor" value="9db2ff" />
+    <option name="ScrollBar.Mac.trackColor" value="6784ea" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="4fd6bec0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="222436" />
     <option name="ScrollBar.Transparent.thumbColor" value="4fd6be80" />
@@ -171,10 +175,10 @@
     <option name="ScrollBar.hoverTrackColor" value="222436" />
     <option name="ScrollBar.thumbColor" value="4fd6bec0" />
     <option name="ScrollBar.trackColor" value="222436" />
-    <option name="TAB_UNDERLINE" value="70b0ff" />
+    <option name="TAB_UNDERLINE" value="" />
     <option name="TAB_UNDERLINE_INACTIVE" value="70b0ffc0" />
-    <option name="TEARLINE_COLOR" value="2f334d" />
-    <option name="TOOLTIP" value="222436" />
+    <option name="TEARLINE_COLOR" value="868bd9" />
+    <option name="TOOLTIP" value="22272d" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="7e8eda" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
@@ -304,7 +308,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="4fd6be" />
+        <option name="BACKGROUND" value="9db2ff" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
@@ -315,7 +319,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4b1515" />
+        <option name="BACKGROUND" value="5c6db6" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
