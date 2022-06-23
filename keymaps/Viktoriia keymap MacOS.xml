@@ -403,8 +403,12 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
-  <action id="MoveStatementDown" />
-  <action id="MoveStatementUp" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
@@ -434,6 +438,9 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="PopupHector" />
+  <action id="PrettierImportCodeStyleAction">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
   <action id="PreviousOccurence" />
   <action id="QuickChangeScheme" />
   <action id="QuickEvaluateExpression" />
@@ -449,6 +456,10 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+    <keyboard-shortcut first-keystroke="meta period" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl meta r" second-keystroke="n" />
