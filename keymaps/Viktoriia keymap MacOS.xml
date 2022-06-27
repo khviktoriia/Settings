@@ -141,6 +141,7 @@
   <action id="EditorAddCaretPerSelectedLine" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
