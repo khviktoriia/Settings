@@ -1,7 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/Documents/Projects/Cite NextJS/scripts/scrollToAboutUs.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Documents/Projects/MyCite Project/Cite-NextJS/node_modules/redux-persist/lib/storage/createWebStorage.ts" value="TypeScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/src/my-theme.ts" value="GitIgnore file" />
   </component>
 </application>
