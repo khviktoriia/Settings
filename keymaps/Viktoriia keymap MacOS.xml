@@ -1,12 +1,15 @@
 <keymap version="1" name="Viktoriia keymap MacOS" parent="macOS For All">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
@@ -122,12 +125,15 @@
   <action id="EditSource" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
@@ -171,8 +177,16 @@
     <keyboard-shortcut first-keystroke="ctrl meta enter" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="EditorCopy">
+    <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="EditorCreateRectangularSelection" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag" />
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
   <action id="EditorCutLineEnd" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt back_space" />
@@ -225,6 +239,7 @@
   </action>
   <action id="EditorPaste">
     <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="EditorPasteSimple" />
   <action id="EditorPreviousWord" />
@@ -419,6 +434,7 @@
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
+  <action id="NextDiff" />
   <action id="NextOccurence" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -556,9 +572,11 @@
   </action>
   <action id="Terminal.CopySelectedText">
     <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="Terminal.Paste">
     <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Terminal.SmartCommandExecution.Debug">
     <keyboard-shortcut first-keystroke="shift meta enter" />
