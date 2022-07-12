@@ -80,6 +80,9 @@
   </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="ChangesView.UnshelveSilently" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift meta alt c" />
+  </action>
   <action id="CheckinProject" />
   <action id="ChooseDebugConfiguration" />
   <action id="ChooseRunConfiguration" />
