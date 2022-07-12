@@ -2,16 +2,13 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColorEnabled" value="true" />
     <option name="accentMode" value="true" />
-    <option name="allowDataCollection" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
-    <option name="themedScrollbars" value="false" />
     <option name="useColoredDirectories" value="true" />
     <option name="highlightThickness" value="4" />
-    <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="40" />
     <option name="accentColor" value="b6e52a" />
     <option name="secondAccentColor" value="b6e52a" />
@@ -20,5 +17,6 @@
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
     <option name="version" value="7.5.4" />
     <option name="expUIEnabled" value="true" />
+    <option name="showWhatsNew" value="false" />
   </component>
 </application>
