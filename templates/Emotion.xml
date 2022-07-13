@@ -36,4 +36,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="_cssWithOtherStyles" value="export const $constName$ = css([&#10;    $OtherStyles$,&#10;    {&#10;        $props$&#10;    }&#10;]);" toReformat="false" toShortenFQNames="true">
+    <variable name="constName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OtherStyles" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
