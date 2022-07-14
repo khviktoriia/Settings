@@ -203,7 +203,7 @@
     <variable name="contextName" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="c(" value="const $CONST$ = () =&gt; (&#10; $END$&#10;);" description="Creates a stateless React component without PropTypes and ES6 module system but with Implicit Return and props" toReformat="true" toShortenFQNames="true">
+  <template name="const()" value="const $CONST$ = () =&gt; (&#10; $END$&#10;);" description="Creates a stateless React component without PropTypes and ES6 module system but with Implicit Return and props" toReformat="true" toShortenFQNames="true">
     <variable name="CONST" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
