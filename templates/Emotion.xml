@@ -1,31 +1,22 @@
 <templateSet group="Emotion">
-  <template name="_css" value="export const $constName$ = css({&#10;    $props$&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="_css" value="export const $constName$ = css({&#10;    $props$&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="constName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="_cssImport" value="import {css} from &quot;@emotion/react&quot;;" toReformat="false" toShortenFQNames="true">
+  <template name="_cssImport" value="import {css} from &quot;@emotion/react&quot;;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="_styled" value="export const $constName$ = styled.$tag$({&#10;    $props$&#10;});" toReformat="false" toShortenFQNames="true">
-    <variable name="constName" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="tag" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
-  </template>
-  <template name="_styledCss" value="export const $constName$ = styled.$tag$([&#10;    $props$,&#10;    css({&#10;        $cssProps$&#10;    })&#10;]);" toReformat="false" toShortenFQNames="true">
+  <template name="_styled" value="export const $constName$ = styled.$tag$({&#10;    $props$&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="constName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="tag" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="cssProps" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
   </template>
-  <template name="_styledCssImport" value="import {css} from &quot;@emotion/react&quot;;&#10;&#10;export const $constName$ = styled.$tag$([&#10;    $props$,&#10;    css({&#10;        $cssProps$&#10;    })&#10;]);" toReformat="false" toShortenFQNames="true">
+  <template name="_styledCss" value="export const $constName$ = styled.$tag$([&#10;    $props$,&#10;    css({&#10;        $cssProps$&#10;    })&#10;]);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="constName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="tag" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
@@ -34,7 +25,16 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="_cssWithOtherStyles" value="export const $constName$ = css([&#10;    $OtherStyles$,&#10;    {&#10;        $props$&#10;    }&#10;]);" toReformat="false" toShortenFQNames="true">
+  <template name="_styledCssImport" value="import {css} from &quot;@emotion/react&quot;;&#10;&#10;export const $constName$ = styled.$tag$([&#10;    $props$,&#10;    css({&#10;        $cssProps$&#10;    })&#10;]);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="constName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="tag" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cssProps" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="_cssWithOtherStyles" value="export const $constName$ = css([&#10;    $OtherStyles$,&#10;    {&#10;        $props$&#10;    }&#10;]);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="constName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="OtherStyles" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
