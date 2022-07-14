@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'Cite-NextJS'" />
     <option name="defaultScopeName" value="Project 'Cite-NextJS'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'Cite-NextJS'" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
