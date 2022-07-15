@@ -1,23 +1,33 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="UIFont" value="STIXSizeOneSym" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="invertedSelectionColor" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="accentMode" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
+    <option name="isInvertedSelectionColor" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
+    <option name="useGlobalFont" value="true" />
     <option name="useColoredDirectories" value="true" />
     <option name="useProjectFrame" value="true" />
+    <option name="indicatorStyle" value="Sharp" />
+    <option name="tabFontSize" value="13" />
     <option name="highlightThickness" value="4" />
+    <option name="indicatorThickness" value="3" />
     <option name="settingsSelectedTab" value="4" />
-    <option name="tabsHeight" value="38" />
+    <option name="tabsHeight" value="35" />
     <option name="accentColor" value="80cbc4" />
+    <option name="secondAccentColor" value="46a195" />
     <option name="highlightColor" value="ffffff" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
     <option name="version" value="7.5.4" />
+    <option name="uiFont" value="STIXSizeOneSym" />
     <option name="expUIEnabled" value="true" />
+    <option name="showWhatsNew" value="false" />
   </component>
 </application>
