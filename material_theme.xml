@@ -2,30 +2,24 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColorEnabled" value="true" />
     <option name="invertedSelectionColor" value="true" />
-    <option name="styledDirectories" value="true" />
     <option name="accentMode" value="true" />
-    <option name="compactDropdowns" value="true" />
-    <option name="customTitle" value="{module}" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
-    <option name="isStyledDirectories" value="true" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="useColoredDirectories" value="true" />
-    <option name="useCustomTitle" value="true" />
-    <option name="useProjectFrame" value="true" />
-    <option name="tabFontSize" value="14" />
     <option name="highlightThickness" value="4" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="40" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="accentColor" value="c6ff00" />
+    <option name="secondAccentColor" value="ff8c3a" />
     <option name="highlightColor" value="ffffff" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
     <option name="version" value="7.5.4" />
-    <option name="tabFont" value="Sukhumvit Set" />
-    <option name="treeFont" value="Sukhumvit Set" />
-    <option name="tabHighlightPosition" value="Bottom" />
     <option name="expUIEnabled" value="true" />
+    <option name="showWhatsNew" value="false" />
   </component>
 </application>
