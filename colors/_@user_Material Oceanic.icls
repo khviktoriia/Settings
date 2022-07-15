@@ -4,12 +4,12 @@
     <property name="created">2022-02-20T23:48:15</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-07-14T19:58:18</property>
+    <property name="modified">2022-07-16T01:45:52</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="Andale Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
@@ -80,7 +80,7 @@
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="85e89d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_MODIFIED" value="cccfff" />
     <option name="FILESTATUS_NOT_CHANGED" value="ffffff" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
@@ -124,7 +124,7 @@
     <option name="MT_FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="MT_FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_FILESTATUS_MERGED" value="c792ea" />
-    <option name="MT_FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="MT_FILESTATUS_MODIFIED" value="cccfff" />
     <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="MT_FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="MT_FILESTATUS_SWITCHED" value="c792ea" />
@@ -149,13 +149,14 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="80cbc4" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="10968880" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="263238" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="9688" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="609d98" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="609d98" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="80cbc4" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.Mac.thumbColor" value="109688c0" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="80cbc4" />
+    <option name="ScrollBar.Mac.thumbColor" value="80cbc4" />
     <option name="ScrollBar.Mac.trackColor" value="263238" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="9688" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="263238" />
@@ -1470,7 +1471,6 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1478,9 +1478,7 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2831,10 +2829,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="425b67" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
