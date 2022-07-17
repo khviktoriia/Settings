@@ -4,19 +4,9 @@
     <property name="created">2021-08-07T01:29:05</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-07-14T20:06:03</property>
+    <property name="modified">2022-07-16T03:24:58</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />

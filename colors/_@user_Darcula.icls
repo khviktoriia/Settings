@@ -3,7 +3,7 @@
     <property name="created">2021-08-07T01:12:25</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.1.5.0.0</property>
-    <property name="modified">2022-07-16T01:22:23</property>
+    <property name="modified">2022-07-16T03:56:59</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -37,8 +37,8 @@
   <attributes>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="c8d3f5" />
-        <option name="BACKGROUND" value="222436" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="282a36" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
