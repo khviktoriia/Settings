@@ -8,7 +8,6 @@
       <mapping pattern="device" type="AUTO_DETECTED" />
       <mapping pattern="fdsf" type="AUTO_DETECTED" />
       <mapping pattern="MainSlide.tsx" type="AUTO_DETECTED" />
-      <removed_mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="dfs" type="JavaScript" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
@@ -18,6 +17,7 @@
       <removed_mapping ext="tfignore" approved="true" type=".tfignore" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
+      <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
