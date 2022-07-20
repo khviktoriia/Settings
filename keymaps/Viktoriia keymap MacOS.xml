@@ -229,15 +229,11 @@
   <action id="EditorNextWordWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
   </action>
-  <action id="EditorPageDown">
-    <keyboard-shortcut first-keystroke="alt down" />
-  </action>
+  <action id="EditorPageDown" />
   <action id="EditorPageDownWithSelection">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
-  <action id="EditorPageUp">
-    <keyboard-shortcut first-keystroke="alt up" />
-  </action>
+  <action id="EditorPageUp" />
   <action id="EditorPageUpWithSelection">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -401,15 +397,11 @@
   </action>
   <action id="JumpToLastChange" />
   <action id="JumpToLastWindow" />
-  <action id="List-scrollDown">
-    <keyboard-shortcut first-keystroke="alt down" />
-  </action>
+  <action id="List-scrollDown" />
   <action id="List-scrollDownExtendSelection">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
-  <action id="List-scrollUp">
-    <keyboard-shortcut first-keystroke="alt up" />
-  </action>
+  <action id="List-scrollUp" />
   <action id="List-scrollUpExtendSelection">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -433,10 +425,10 @@
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="meta up" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift meta down" />
@@ -541,6 +533,12 @@
   <action id="SaveAsTemplate">
     <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
+  <action id="ScrollPane-scrollDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="ScrollPane-scrollUp">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
@@ -605,6 +603,7 @@
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Synchronize" />
+  <action id="Table-scrollUpChangeSelection" />
   <action id="Table-selectPreviousRowExtendSelection" />
   <action id="Terminal.ClearBuffer" />
   <action id="Terminal.CopySelectedText">
