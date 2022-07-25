@@ -19,10 +19,9 @@
     <option name="useProjectFrame" value="true" />
     <option name="indicatorStyle" value="Sharp" />
     <option name="tabFontSize" value="13" />
-    <option name="highlightThickness" value="4" />
+    <option name="highlightThickness" value="3" />
     <option name="indicatorThickness" value="3" />
-    <option name="settingsSelectedTab" value="4" />
-    <option name="tabsHeight" value="35" />
+    <option name="tabsHeight" value="30" />
     <option name="accentColor" value="80cbc4" />
     <option name="secondAccentColor" value="46a195" />
     <option name="highlightColor" value="ffffff" />
