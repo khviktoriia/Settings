@@ -1,12 +1,22 @@
-<scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
+<scheme name="Material Oceanic Atom Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-02-20T23:48:15</property>
+    <property name="created">2022-07-26T23:39:33</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-07-27T00:18:02</property>
-    <property name="originalScheme">Material Oceanic</property>
+    <property name="ideVersion">2022.2.0.0</property>
+    <property name="modified">2022-07-27T00:17:03</property>
+    <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -15,7 +25,6 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -30,9 +39,9 @@
     <option name="BookmarkMnemonicIcon.background" value="314549" />
     <option name="BookmarkMnemonicIcon.borderColor" value="314549" />
     <option name="BookmarkMnemonicIcon.foreground" value="fffbf7" />
-    <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="1b2529" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
+    <option name="CARET_COLOR" value="efd136" />
+    <option name="CARET_ROW_COLOR" value="2c323c" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="292c34" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="c792ea" />
     <option name="DIAGRAM_COARSE_GRID" value="546e7a" />
@@ -54,7 +63,7 @@
     <option name="DIAGRAM_SNAPPING_LINES" value="9688" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="32424a" />
+    <option name="DOCUMENTATION_COLOR" value="2f333d" />
     <option name="DOC_COMMENT_GUIDE" value="475f63" />
     <option name="DOC_COMMENT_LINK" value="89ddf7" />
     <option name="FILESTATUS_ADDED" value="24734e" />
@@ -83,9 +92,9 @@
     <option name="FILESTATUS_addedOutside" value="d0e1b2" />
     <option name="FILESTATUS_changelistConflict" value="fc9867" />
     <option name="FILESTATUS_modifiedOutside" value="cbcefc" />
-    <option name="GUTTER_BACKGROUND" value="263238" />
-    <option name="INDENT_GUIDE" value="37474f" />
-    <option name="INFORMATION_HINT" value="263238" />
+    <option name="GUTTER_BACKGROUND" value="282c34" />
+    <option name="INDENT_GUIDE" value="3c4049" />
+    <option name="INFORMATION_HINT" value="292c34" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="263238" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="546e7a" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="314549" />
@@ -97,9 +106,9 @@
     <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="9688" />
     <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="2a373e" />
     <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="607d8b" />
-    <option name="LINE_NUMBERS_COLOR" value="475f63" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="607d86" />
-    <option name="LOOKUP_COLOR" value="32424a" />
+    <option name="LINE_NUMBERS_COLOR" value="636d83" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c6c6c6" />
+    <option name="LOOKUP_COLOR" value="2f333d" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="MODIFIED_TAB_ICON" value="9688" />
@@ -115,7 +124,7 @@
     <option name="MT_FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="MT_FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_FILESTATUS_MERGED" value="c792ea" />
-    <option name="MT_FILESTATUS_MODIFIED" value="9bb3ec" />
+    <option name="MT_FILESTATUS_MODIFIED" value="8095cb" />
     <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="MT_FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="MT_FILESTATUS_SWITCHED" value="c792ea" />
@@ -130,23 +139,23 @@
     <option name="MnemonicIcon.foreground" value="fffbf7" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="607d8b" />
-    <option name="PROMOTION_PANE" value="1b2529" />
-    <option name="QUESTION_HINT" value="263238" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="1b2529" />
-    <option name="RIGHT_MARGIN_COLOR" value="37474f" />
-    <option name="SELECTED_INDENT_GUIDE" value="9688" />
+    <option name="PROMOTION_PANE" value="21252b" />
+    <option name="QUESTION_HINT" value="292c34" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="21252b" />
+    <option name="RIGHT_MARGIN_COLOR" value="3c4049" />
+    <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
     <option name="SELECTED_TEARLINE_COLOR" value="9688" />
-    <option name="SELECTION_BACKGROUND" value="314549" />
+    <option name="SELECTION_BACKGROUND" value="3e4451" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
-    <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
+    <option name="SEPARATOR_BELOW_COLOR" value="3c4049" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="263238" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="10968880" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="263238" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="9688" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="80cbc4" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.Mac.thumbColor" value="109688c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="80cbc43a" />
     <option name="ScrollBar.Mac.trackColor" value="263238" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="9688" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="263238" />
@@ -158,14 +167,14 @@
     <option name="ScrollBar.trackColor" value="263238" />
     <option name="TAB_UNDERLINE" value="9688" />
     <option name="TAB_UNDERLINE_INACTIVE" value="109688c0" />
-    <option name="TEARLINE_COLOR" value="3b4950" />
-    <option name="TOOLTIP" value="32424a" />
+    <option name="TEARLINE_COLOR" value="3c4049" />
+    <option name="TOOLTIP" value="3a3f4b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="VISUAL_INDENT_GUIDE" value="37474f" />
+    <option name="VISUAL_INDENT_GUIDE" value="3c4049" />
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
   </colors>
@@ -264,25 +273,25 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="546e7a" />
+        <option name="BACKGROUND" value="5c5d65" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="607d8b" />
-        <option name="BACKGROUND" value="263238" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="292c34" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="9c88" />
+        <option name="BACKGROUND" value="80cbc4" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="425b67" />
-        <option name="BACKGROUND" value="263238" />
+        <option name="FOREGROUND" value="5c5d65" />
+        <option name="BACKGROUND" value="292c34" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -1558,7 +1567,7 @@
     </option>
     <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="59626f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3649,7 +3658,7 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="32424a" />
+        <option name="BACKGROUND" value="535862" />
       </value>
     </option>
     <option name="SELECTED_CELL">
@@ -3846,22 +3855,27 @@
         <option name="FOREGROUND" value="bd92ea" />
       </value>
     </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="344f48" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
-        <option name="BACKGROUND" value="263238" />
+        <option name="BACKGROUND" value="282c34" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="32424a" />
-        <option name="BACKGROUND" value="f8e71c" />
+        <option name="BACKGROUND" value="2e8480" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffeb95" />
+        <option name="FOREGROUND" value="95dfff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3951,7 +3965,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="415967" />
+        <option name="BACKGROUND" value="535862" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
