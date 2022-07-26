@@ -4,7 +4,7 @@
     <property name="created">2022-07-26T23:39:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-07-27T00:17:03</property>
+    <property name="modified">2022-07-27T00:38:30</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -112,7 +112,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="MODIFIED_TAB_ICON" value="9688" />
-    <option name="MT_FILESTATUS_ADDED" value="c3e88d" />
+    <option name="MT_FILESTATUS_ADDED" value="87b93d" />
     <option name="MT_FILESTATUS_COPIED" value="c3e88d" />
     <option name="MT_FILESTATUS_DELETED" value="808080" />
     <option name="MT_FILESTATUS_HIJACKED" value="ffcb6b" />
@@ -124,7 +124,7 @@
     <option name="MT_FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="MT_FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_FILESTATUS_MERGED" value="c792ea" />
-    <option name="MT_FILESTATUS_MODIFIED" value="8095cb" />
+    <option name="MT_FILESTATUS_MODIFIED" value="6d8cde" />
     <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="MT_FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="MT_FILESTATUS_SWITCHED" value="c792ea" />

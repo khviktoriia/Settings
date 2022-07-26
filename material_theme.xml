@@ -2,12 +2,14 @@
   <component name="MaterialThemeConfig">
     <option name="UIFont" value="STIXSizeOneSym" />
     <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="invertedSelectionColor" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="accentMode" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isTabsShadow" value="false" />
@@ -19,6 +21,7 @@
     <option name="tabFontSize" value="13" />
     <option name="highlightThickness" value="3" />
     <option name="indicatorThickness" value="3" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="tabsHeight" value="30" />
     <option name="accentColor" value="80cbc4" />
     <option name="secondAccentColor" value="46a195" />
