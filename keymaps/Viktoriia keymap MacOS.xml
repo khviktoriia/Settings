@@ -156,7 +156,9 @@
   <action id="EditorAddCaretPerSelectedLine">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
-  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorAddRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
