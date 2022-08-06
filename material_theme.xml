@@ -1,15 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="UIFont" value="STIXSizeOneSym" />
-    <option name="compactFields" value="true" />
-    <option name="compactTables" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="invertedSelectionColor" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="accentMode" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
-    <option name="isCompactTables" value="true" />
-    <option name="isCompactFields" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isTabsShadow" value="false" />
@@ -28,6 +24,7 @@
     <option name="highlightColor" value="ffffff" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
+    <option name="version" value="7.7.1" />
     <option name="uiFont" value="STIXSizeOneSym" />
     <option name="tabHighlightPosition" value="Top" />
     <option name="showWhatsNew" value="false" />
