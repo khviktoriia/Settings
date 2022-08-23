@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="shallow" />
       <item value="semicolon" />
       <item value="Required" />
       <item value="shut off" />
@@ -18,12 +19,12 @@
       <map>
         <entry key="ENGLISH" value="2" />
         <entry key="RUSSIAN" value="6" />
-        <entry key="UKRAINIAN" value="1" />
+        <entry key="UKRAINIAN" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657898542079" />
+    <option name="lastTrimTime" value="1661235240839" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
