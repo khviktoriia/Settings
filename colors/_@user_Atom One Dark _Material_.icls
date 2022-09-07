@@ -4,7 +4,7 @@
     <property name="created">2022-01-18T16:41:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-09-07T23:05:23</property>
+    <property name="modified">2022-09-07T23:25:26</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -57,9 +57,9 @@
     <option name="DOCUMENTATION_COLOR" value="2f333d" />
     <option name="DOC_COMMENT_GUIDE" value="636d83" />
     <option name="DOC_COMMENT_LINK" value="56b6c2" />
-    <option name="FILESTATUS_ADDED" value="98c379" />
-    <option name="FILESTATUS_COPIED" value="98c379" />
-    <option name="FILESTATUS_DELETED" value="b2b2b2" />
+    <option name="FILESTATUS_ADDED" value="49a60" />
+    <option name="FILESTATUS_COPIED" value="3e986f" />
+    <option name="FILESTATUS_DELETED" value="e88686" />
     <option name="FILESTATUS_HIJACKED" value="c679dd" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a1a1a1" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="81a0da" />
@@ -70,7 +70,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="85e89d" />
     <option name="FILESTATUS_MERGED" value="61aeef" />
-    <option name="FILESTATUS_MODIFIED" value="e5c17c" />
+    <option name="FILESTATUS_MODIFIED" value="2e82ff" />
     <option name="FILESTATUS_NOT_CHANGED" value="ffffff" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
@@ -105,9 +105,9 @@
     <option name="MODIFIED_TAB_ICON" value="2979ff" />
     <option name="MT_ADDED" value="73c990" />
     <option name="MT_DELETED" value="ff6347" />
-    <option name="MT_FILESTATUS_ADDED" value="98c379" />
-    <option name="MT_FILESTATUS_COPIED" value="98c379" />
-    <option name="MT_FILESTATUS_DELETED" value="b2b2b2" />
+    <option name="MT_FILESTATUS_ADDED" value="49a60" />
+    <option name="MT_FILESTATUS_COPIED" value="3e986f" />
+    <option name="MT_FILESTATUS_DELETED" value="e88686" />
     <option name="MT_FILESTATUS_HIJACKED" value="c679dd" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a1a1a1" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="81a0da" />
@@ -115,7 +115,7 @@
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
     <option name="MT_FILESTATUS_MERGED" value="61aeef" />
-    <option name="MT_FILESTATUS_MODIFIED" value="e5c17c" />
+    <option name="MT_FILESTATUS_MODIFIED" value="2e82ff" />
     <option name="MT_FILESTATUS_NOT_CHANGED" value="ffffff" />
     <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
@@ -2820,7 +2820,7 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="d3dae3" />
+        <option name="FOREGROUND" value="e88686" />
         <option name="BACKGROUND" value="262b33" />
         <option name="EFFECT_TYPE" value="5" />
       </value>

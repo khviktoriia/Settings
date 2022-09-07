@@ -4,7 +4,7 @@
     <property name="created">2022-02-20T23:48:15</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-06-08T22:59:19</property>
+    <property name="modified">2022-09-07T23:20:52</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -78,10 +78,11 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="32f62" />
     <option name="FILESTATUS_MERGED" value="6f42c1" />
     <option name="FILESTATUS_MODIFIED" value="5cc5" />
+    <option name="FILESTATUS_NOT_CHANGED" value="ffffff" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5cc5" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5cc5" />
     <option name="FILESTATUS_OBSOLETE" value="6a737d" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_RENAMED" value="c679dd" />
     <option name="FILESTATUS_SUPPRESSED" value="6a737d" />
     <option name="FILESTATUS_SWITCHED" value="e36209" />
     <option name="FILESTATUS_UNKNOWN" value="e36209" />
@@ -333,7 +334,6 @@
         <option name="FOREGROUND" value="6f42c1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="5cc4" />
@@ -1246,10 +1246,6 @@
         <option name="BACKGROUND" value="d1d5da" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.IMPORT_PACKAGE">
       <value>
         <option name="FOREGROUND" value="d73a49" />
@@ -3755,7 +3751,7 @@
         <option name="FOREGROUND" value="32f62" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
     <option name="XSLT_DIRECTIVE">
       <value />
     </option>
