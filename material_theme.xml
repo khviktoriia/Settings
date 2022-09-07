@@ -1,0 +1,23 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
+    <option name="accentMode" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="isTabsShadow" value="false" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="useColoredDirectories" value="true" />
+    <option name="useProjectTitle" value="false" />
+    <option name="useProjectIcon" value="false" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="tabsHeight" value="25" />
+    <option name="accentColor" value="b78288" />
+    <option name="secondAccentColor" value="ffeaf9" />
+    <option name="highlightColor" value="ffffff" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="userId" value="38828ea4:18303a226f7:-8000" />
+    <option name="version" value="7.8.1" />
+    <option name="showWhatsNew" value="false" />
+  </component>
+</application>
