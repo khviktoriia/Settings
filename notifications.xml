@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Atom Material Notifications" shouldLog="false" />
-  </component>
-</application>

@@ -1,112 +1,11 @@
 <application>
-  <component name="DebuggerSettings">
-    <filter>
-      <option name="PATTERN" value="com.sun.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="java.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="javax.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.omg.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="sun.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="jdk.internal.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="junit.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.junit.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.intellij.rt.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.yourkit.runtime.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="javassist.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.apache.webbeans.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.ibm.ws.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.mockito.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-  </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="valueLookupDelay" value="128" />
-    </data-views>
-    <general>
-      <option name="hideDebuggerOnProcessTermination" value="true" />
-      <scroll-to-center>true</scroll-to-center>
-    </general>
+    <data-views />
+    <general />
     <debuggers>
-      <debugger id="dotnet_debugger">
+      <debugger id="ObjectiveC">
         <configuration>
-          <option name="automaticallyRefreshWatches" value="true" />
-          <option name="breakOnUserUnhandledExceptions" value="true" />
-          <option name="groupNonPublicMembers" value="true" />
-          <option name="ignorePrecompiledAssemblies" value="true" />
-          <option name="processExceptionsOutsideMyCode" value="true" />
-          <option name="showCompilerGeneratedMembers" value="true" />
-          <option name="showRawNodeForDebuggerBrowsableValues" value="true" />
-          <option name="sshCredentials">
-            <option value="&lt;credentials HOST=&quot;localhost&quot; PORT=&quot;42009&quot; USERNAME=&quot;D3T92AbI&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_OPENSSH_CONFIG=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
-          </option>
+          <nt-symbol-settings />
         </configuration>
       </debugger>
       <debugger id="javascript">

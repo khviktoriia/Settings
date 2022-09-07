@@ -1,0 +1,9 @@
+<application>
+  <component name="com.itcodebox.notebooks.ui.toolsettings.AppSettingsState">
+    <option name="customFontName" value="Trebuchet MS" />
+    <option name="customFontSize" value="14" />
+    <option name="addMenuItemVisible" value="true" />
+    <option name="showFocusBorder" value="false" />
+    <option name="tipIndex" value="20" />
+  </component>
+</application>
