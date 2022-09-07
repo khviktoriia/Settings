@@ -2,7 +2,7 @@
   <component name="MaterialCustomThemeConfig">
     <option name="colorScheme" value="Atom One Dark (Material)" />
     <option name="excludedColor" value="3c4150ff" />
-    <option name="accentColor" value="80cbc4ff" />
+    <option name="accentColor" value="b78288ff" />
     <option name="notificationsColor" value="1c1e24f7" />
     <option name="treeSelectionColor" value="3a3f4b80" />
     <option name="highlightColor" value="383d48ff" />
