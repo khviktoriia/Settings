@@ -1,11 +1,11 @@
-<scheme name="_@user_Atom One Dark (Material)" version="142" parent_scheme="Darcula">
+<scheme name="Atom One Dark Lime(Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-01-18T16:41:37</property>
+    <property name="created">2022-09-07T23:28:54</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.3.1.0.0</property>
+    <property name="ideVersion">2022.2.1.0.0</property>
     <property name="modified">2022-09-07T23:44:15</property>
-    <property name="originalScheme">Atom One Dark (Material)</property>
+    <property name="originalScheme">_@user_Atom One Dark (Material)</property>
   </metaInfo>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
@@ -146,15 +146,15 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3c4049" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3c4049" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="80cbc4" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="282c34" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="a9e7e1" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="a9e7e1" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="80cbc4" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="c7e864" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="c7e864" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="d9eebb" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="d9eebb" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="c7e864" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="282c34" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="80cbc4" />
-    <option name="ScrollBar.Mac.thumbColor" value="80cbc4" />
-    <option name="ScrollBar.Mac.trackColor" value="80cbc4" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="c7e864" />
+    <option name="ScrollBar.Mac.thumbColor" value="c7e864" />
+    <option name="ScrollBar.Mac.trackColor" value="c7e864" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="2979ffc0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="282c34" />
     <option name="ScrollBar.Transparent.thumbColor" value="2979ff80" />
@@ -436,7 +436,7 @@
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
+        <option name="FOREGROUND" value="ff793f" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
@@ -451,14 +451,19 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff793f" />
+      </value>
+    </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="57b6c2" />
+        <option name="FOREGROUND" value="3e7ff" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ff793f" />
       </value>
     </option>
     <option name="CSS.PSEUDO">
@@ -468,7 +473,12 @@
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="ff6b9d" />
+      </value>
+    </option>
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="ff793f" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -529,8 +539,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="fdeb75" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="dbff98" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -551,7 +560,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ffe199" />
+        <option name="FOREGROUND" value="cdff70" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -680,7 +689,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ffb06a" />
+        <option name="FOREGROUND" value="f58175" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -737,7 +746,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="c0eea6" />
+        <option name="FOREGROUND" value="ccf38f" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -1125,7 +1134,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="da4c7d" />
       </value>
     </option>
     <option name="HTTP_REQUEST_PARAMETER_NAME">
@@ -1309,13 +1318,13 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="faff90" />
+        <option name="FOREGROUND" value="cff589" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="98479" />
+        <option name="FOREGROUND" value="ff9a84" />
       </value>
     </option>
     <option name="JS.INLINE">
@@ -1325,27 +1334,27 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="51afff" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="51afff" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cace59" />
+        <option name="FOREGROUND" value="61c5ae" />
       </value>
     </option>
     <option name="JS.MODULE_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="ff6b9d" />
       </value>
     </option>
     <option name="JS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="98c379" />
+        <option name="FOREGROUND" value="fff6bd" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1356,7 +1365,7 @@
     </option>
     <option name="JS.PROTOTYPE">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="ff6b9d" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -1364,9 +1373,15 @@
         <option name="FOREGROUND" value="c6ff9b" />
       </value>
     </option>
+    <option name="JS.STATIC_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e34b7f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="ff6b9d" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
