@@ -1,5 +1,13 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="blameInlayConfig">
+      <InlayBlameConfig>
+        <option name="location" value="BELOW" />
+        <option name="shortenToFitViewport" value="true" />
+      </InlayBlameConfig>
+    </option>
+    <option name="blameInlineDateType" value="RELATIVE" />
+    <option name="showStatusWidget" value="false" />
     <option name="version" value="6" />
   </component>
 </application>

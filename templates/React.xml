@@ -199,4 +199,19 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="cctx" value="const $contextName$ = React.createContext();$END$" description="Creates a context" toReformat="true" toShortenFQNames="true">
+    <variable name="contextName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="const()" value="const $CONST$ = () =&gt; (&#10; $END$&#10;);" description="Creates a stateless React component without PropTypes and ES6 module system but with Implicit Return and props" toReformat="true" toShortenFQNames="true">
+    <variable name="CONST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="_prisma" value="&#9;const prisma = globalThis.prisma ??= new PrismaClient();&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
