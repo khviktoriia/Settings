@@ -4,7 +4,7 @@
     <property name="created">2022-09-07T23:28:54</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-09-07T23:44:15</property>
+    <property name="modified">2022-09-08T00:26:48</property>
     <property name="originalScheme">_@user_Atom One Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -17,7 +17,7 @@
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="91b859" />
+    <option name="ADDED_LINES_COLOR" value="c7e864" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="ActionButton.hoverBackground" value="383d48c0" />
     <option name="ActionButton.iconTextForeground" value="979fad" />
@@ -56,7 +56,7 @@
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="2f333d" />
     <option name="DOC_COMMENT_GUIDE" value="636d83" />
-    <option name="DOC_COMMENT_LINK" value="56b6c2" />
+    <option name="DOC_COMMENT_LINK" value="c5e4e8" />
     <option name="FILESTATUS_ADDED" value="49a60" />
     <option name="FILESTATUS_COPIED" value="3e986f" />
     <option name="FILESTATUS_DELETED" value="e88686" />
@@ -101,7 +101,7 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c6c6c6" />
     <option name="LOOKUP_COLOR" value="2f333d" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
-    <option name="MODIFIED_LINES_COLOR" value="61aeef" />
+    <option name="MODIFIED_LINES_COLOR" value="b0effd" />
     <option name="MODIFIED_TAB_ICON" value="2979ff" />
     <option name="MT_ADDED" value="73c990" />
     <option name="MT_DELETED" value="ff6347" />
@@ -362,7 +362,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="e74453" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -490,31 +490,31 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
-        <option name="EFFECT_COLOR" value="c679dd" />
+        <option name="FOREGROUND" value="e4acf3" />
+        <option name="EFFECT_COLOR" value="0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
+        <option name="FOREGROUND" value="edb5ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="61afef" />
+        <option name="FOREGROUND" value="95cfff" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="fdfb95" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="fd969e" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -539,7 +539,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="dbff98" />
+        <option name="FOREGROUND" value="d3ff67" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -575,7 +575,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ffb06a" />
+        <option name="FOREGROUND" value="fdfb95" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -614,17 +614,18 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="ff9797" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="ffabe2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ffb06a" />
+        <option name="FOREGROUND" value="ea65cc" />
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
@@ -635,7 +636,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c3d3de" />
+        <option name="FOREGROUND" value="59626f" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -645,7 +646,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="95cfff" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -662,7 +663,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="edaeff" />
+        <option name="FOREGROUND" value="acfadb" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -679,27 +680,27 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ffb06a" />
+        <option name="FOREGROUND" value="fd7b7b" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="95cfff" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f58175" />
+        <option name="FOREGROUND" value="ffa99f" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="61afef" />
+        <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="ffdc36" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -709,14 +710,14 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="95cfff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ffb06a" />
-        <option name="EFFECT_COLOR" value="ffb06a" />
+        <option name="FOREGROUND" value="ff63d2" />
+        <option name="EFFECT_COLOR" value="c5439e" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -734,19 +735,19 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="ff9292" />
+        <option name="FOREGROUND" value="95cfff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="95cfff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ccf38f" />
+        <option name="FOREGROUND" value="d9ff9f" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -836,8 +837,8 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
-        <option name="EFFECT_COLOR" value="c679dd" />
+        <option name="FOREGROUND" value="e4acf3" />
+        <option name="EFFECT_COLOR" value="0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -850,7 +851,7 @@
     </option>
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="aee8aa" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -862,25 +863,37 @@
     </option>
     <option name="GIT_TOOLBOX.HEAD_TAGS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
+        <option name="FOREGROUND" value="aee8aa" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.LOCAL_BRANCH_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
+        <option name="FOREGROUND" value="e6b5f6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.MASTER_LOCAL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="eeafaf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.MASTER_WITH_REMOTE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fff78b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.REMOTE_BRANCH_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="61afef" />
+        <option name="FOREGROUND" value="94a9ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GIT_TOOLBOX.STATUS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="98c379" />
+        <option name="FOREGROUND" value="afeece" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1297,18 +1310,18 @@
     </option>
     <option name="JS.CONSOLE">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
+        <option name="FOREGROUND" value="fdfb95" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.DEBUGGER_STMT">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
+        <option name="FOREGROUND" value="dd7979" />
       </value>
     </option>
     <option name="JS.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="95cfff" />
       </value>
     </option>
     <option name="JS.GET_SET">
@@ -1334,12 +1347,12 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="51afff" />
+        <option name="FOREGROUND" value="95cfff" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="51afff" />
+        <option name="FOREGROUND" value="95cfff" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -1349,23 +1362,23 @@
     </option>
     <option name="JS.MODULE_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff6b9d" />
+        <option name="FOREGROUND" value="e7799c" />
       </value>
     </option>
     <option name="JS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="fff6bd" />
+        <option name="FOREGROUND" value="95aaff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.NULL_UNDEFINED">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="94a9ff" />
       </value>
     </option>
     <option name="JS.PROTOTYPE">
       <value>
-        <option name="FOREGROUND" value="ff6b9d" />
+        <option name="FOREGROUND" value="e7799c" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -1381,7 +1394,7 @@
     </option>
     <option name="JS.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="ff6b9d" />
+        <option name="FOREGROUND" value="e7799c" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
@@ -1391,7 +1404,7 @@
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
+        <option name="FOREGROUND" value="e4acf3" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_BACKGROUND">
@@ -1565,7 +1578,7 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f44747" />
+        <option name="FOREGROUND" value="ff8c8c" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
@@ -1767,7 +1780,7 @@
     </option>
     <option name="MARKDOWN_INLINE_HTML">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="f37750" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

@@ -71,8 +71,13 @@
         <option value="ObjectiveC" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old.js.only.show.names.for.all.args" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </JavaScript.js.type.hints>
       <TypeScript.ts.type.hints>
         <Settings>
           <option name="showForInferredParameters" value="false" />
