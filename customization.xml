@@ -5,6 +5,16 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="MaterialTheme.Accents" is_group="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MaterialTheme.Panels" is_group="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="MaterialTheme.ThemeChooser" is_group="true" action_type="-1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -69,5 +79,26 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Run Toolbar Widget" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CheckinProject" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Run Toolbar Widget" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesView.Revert" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Run Toolbar Widget" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Diff.ShowDiff" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Run Toolbar Widget" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Vcs.Push" icon="compare.contents" />
   </component>
 </application>
