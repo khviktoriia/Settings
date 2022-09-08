@@ -7,8 +7,7 @@
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="showOverlays" value="false" />
-    <option name="highlightThickness" value="1" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="useColoredDirectories" value="true" />
     <option name="tabsHeight" value="28" />
     <option name="accentColor" value="d0f366" />
     <option name="secondAccentColor" value="def1a9" />
@@ -16,5 +15,6 @@
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
     <option name="version" value="7.8.0" />
+    <option name="tabHighlightPosition" value="Top-Bottom" />
   </component>
 </application>
