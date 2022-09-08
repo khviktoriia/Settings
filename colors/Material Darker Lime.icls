@@ -4,7 +4,7 @@
     <property name="created">2022-09-08T03:06:08</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-09-08T12:34:14</property>
+    <property name="modified">2022-09-08T15:15:34</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <console-font>
@@ -17,7 +17,7 @@
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="c3e88d" />
+    <option name="ADDED_LINES_COLOR" value="def1a9" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="ActionButton.hoverBackground" value="3f3f3f50" />
     <option name="ActionButton.iconTextForeground" value="727272" />
@@ -32,7 +32,7 @@
     <option name="BookmarkMnemonicIcon.foreground" value="fffbf7" />
     <option name="CARET_COLOR" value="ffeb93" />
     <option name="CARET_ROW_COLOR" value="3a3e49" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d1f21" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="292c34" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="c792ea" />
     <option name="DIAGRAM_COARSE_GRID" value="424242" />
@@ -101,7 +101,7 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
     <option name="LOOKUP_COLOR" value="292c34" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
-    <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
+    <option name="MODIFIED_LINES_COLOR" value="bba8ff" />
     <option name="MODIFIED_TAB_ICON" value="" />
     <option name="MT_FILESTATUS_ADDED" value="c3e88d" />
     <option name="MT_FILESTATUS_COPIED" value="c3e88d" />
@@ -144,17 +144,17 @@
     <option name="SEPARATOR_BELOW_COLOR" value="3f4652" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="424242" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="1d1f21" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5263b6" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="1d1f21" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="1d1f21" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="1d1f21" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="c7e864ef" />
-    <option name="ScrollBar.Mac.hoverTrackColor" value="1d1f21" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="1d1f21" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="" />
     <option name="ScrollBar.Mac.thumbColor" value="c7e86410" />
-    <option name="ScrollBar.Mac.trackColor" value="5263b6" />
+    <option name="ScrollBar.Mac.trackColor" value="" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="212121" />
     <option name="ScrollBar.Transparent.thumbColor" value="ff980080" />
@@ -1108,7 +1108,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="f1535a" />
       </value>
     </option>
     <option name="HTTP_REQUEST_INPUT_FILE">

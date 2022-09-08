@@ -1,0 +1,9 @@
+<list display="Git">
+  <action id="Git.Commit.Stage" />
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.Branches" />
+  <action id="Git.Rebase.Skip" />
+  <action id="GitCompareWithBranchAction" />
+  <action id="Git.Add" />
+  <action id="GithubCopyPathProvider" />
+</list>

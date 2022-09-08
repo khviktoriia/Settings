@@ -2,19 +2,22 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColorEnabled" value="true" />
     <option name="accentMode" value="true" />
+    <option name="borderedButtons" value="true" />
+    <option name="fileStatusColorsEnabled" value="false" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="showOverlays" value="false" />
     <option name="useColoredDirectories" value="true" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="28" />
-    <option name="accentColor" value="d0f366" />
+    <option name="accentColor" value="c9ff52" />
     <option name="secondAccentColor" value="def1a9" />
     <option name="highlightColor" value="ffffff" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
-    <option name="version" value="7.8.0" />
+    <option name="version" value="7.9.0" />
     <option name="tabHighlightPosition" value="Top-Bottom" />
   </component>
 </application>
