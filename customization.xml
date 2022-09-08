@@ -73,12 +73,6 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GrepConsoleTail" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="1" position="2">
       <path value="root" />
       <path value="Run Toolbar Widget" />
