@@ -54,9 +54,13 @@
           <option name="url" value="https://github.com/khviktoriia/commerce.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/khviktoriia/RoseChocolateNew.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/MyCite Project" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/Rose&amp;Chocolate" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
