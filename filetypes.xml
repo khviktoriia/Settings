@@ -10,6 +10,7 @@
       <mapping pattern="MainSlide.tsx" type="AUTO_DETECTED" />
       <mapping pattern="dfs" type="JavaScript" />
       <mapping ext="js " type="JavaScript" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
