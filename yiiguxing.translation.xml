@@ -24,7 +24,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661235240839" />
+    <option name="lastTrimTime" value="1663248830399" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
@@ -32,5 +32,6 @@
         <option name="primaryLanguage" value="UKRAINIAN" />
       </google-translate>
     </option>
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
