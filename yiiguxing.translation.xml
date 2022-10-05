@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="A friendly abstraction over the standard Redux createStore() function." />
       <item value="shallow" />
       <item value="semicolon" />
       <item value="Required" />
@@ -19,12 +20,12 @@
       <map>
         <entry key="ENGLISH" value="2" />
         <entry key="RUSSIAN" value="6" />
-        <entry key="UKRAINIAN" value="2" />
+        <entry key="UKRAINIAN" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663780064612" />
+    <option name="lastTrimTime" value="1664976505779" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
