@@ -4,7 +4,7 @@
     <property name="created">2022-01-18T16:41:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-10-09T19:06:50</property>
+    <property name="modified">2022-10-10T16:19:45</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -62,7 +62,7 @@
     <option name="FILESTATUS_DELETED" value="e88686" />
     <option name="FILESTATUS_HIJACKED" value="c679dd" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a1a1a1" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="81a0da" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="d3edff" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
