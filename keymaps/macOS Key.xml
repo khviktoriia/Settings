@@ -1,5 +1,0 @@
-<keymap version="1" name="macOS Key" parent="Mac OS X 10.5+">
-  <action id="EditorBackSpace">
-    <keyboard-shortcut first-keystroke="back_space" />
-  </action>
-</keymap>
