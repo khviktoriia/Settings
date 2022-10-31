@@ -1,0 +1,151 @@
+<keymap version="1" name="macOS keymap" parent="Mac OS X 10.5+">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="CopyPaths" />
+  <action id="CopyReference" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorAddCaretPerSelectedLine">
+    <keyboard-shortcut first-keystroke="ctrl alt end" />
+  </action>
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorChooseLookupItemCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="EditorCreateRectangularSelection" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag" />
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorDecreaseFontSizeGlobal" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift back_space" />
+  </action>
+  <action id="EditorDeleteToWordEnd" />
+  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="EditorFocusGutter" />
+  <action id="EditorIncreaseFontSizeGlobal" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="alt end" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt home" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorMoveToPageTopWithSelection" />
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorPageDown" />
+  <action id="EditorPageDownWithSelection" />
+  <action id="EditorPageUp" />
+  <action id="EditorPageUpWithSelection" />
+  <action id="EditorPasteFromX11" />
+  <action id="EditorPasteSimple" />
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="shift page_down" />
+  </action>
+  <action id="EditorSortLines">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="EditorTextEnd" />
+  <action id="EditorTextEndWithSelection" />
+  <action id="EditorTextStart" />
+  <action id="EditorTextStartWithSelection" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="EditorToggleColumnMode" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift page_up" />
+  </action>
+  <action id="EditorUnindentSelection" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="NavBar-selectHome" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="QuickJavaDoc" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="SaveAs" />
+  <action id="SelectVirtualTemplateElement">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="Synchronize" />
+  <action id="UsageView.Include" />
+  <action id="com.haulmont.rcb.CreateReactComponent">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="com.itcodebox.notebooks.action.SearchRecordAction" />
+  <action id="hg4idea.QFold" />
+  <action id="tasks.goto" />
+</keymap>
