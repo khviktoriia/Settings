@@ -20,11 +20,19 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="CallHierarchy" />
+  <action id="ChangeSignature" />
   <action id="ChangesView.CreatePatch">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="ChangesView.CreatePatchFromChanges">
-    <keyboard-shortcut first-keystroke="shift meta p" />
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="alt f1" />
   </action>
   <action id="CollapseBlock" />
   <action id="CollapseSelection" />
@@ -36,6 +44,11 @@
   </action>
   <action id="CopyPaths" />
   <action id="CopyReference" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta f3" />
+  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -167,6 +180,8 @@
   <action id="FileChooserList.LevelUp" />
   <action id="FileChooserList.Root" />
   <action id="FileStructurePopup" />
+  <action id="FindNext" />
+  <action id="FindPrevious" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
@@ -233,15 +248,8 @@
     <keyboard-shortcut first-keystroke="meta page_up" />
   </action>
   <action id="NavBar-selectHome" />
-  <action id="NewDir">
-    <keyboard-shortcut first-keystroke="shift alt d" />
-  </action>
-  <action id="NewFile">
-    <keyboard-shortcut first-keystroke="shift alt n" />
-  </action>
-  <action id="NewScratchFile">
-    <keyboard-shortcut first-keystroke="shift alt s" />
-  </action>
+  <action id="NewScratchFile" />
+  <action id="NextDiff" />
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
@@ -250,6 +258,7 @@
   <action id="OptimizeImports" />
   <action id="ParameterInfo" />
   <action id="PopupHector" />
+  <action id="PreviousDiff" />
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
@@ -264,11 +273,24 @@
   </action>
   <action id="RecentFiles" />
   <action id="RecentLocations" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
+  <action id="RenameElement" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta f1" />
   </action>
   <action id="RunInspection" />
   <action id="SaveAs" />
@@ -278,7 +300,9 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="SelectAllOccurrences" />
   <action id="SelectIn" />
+  <action id="SelectNextOccurrence" />
   <action id="SelectVirtualTemplateElement" />
   <action id="ShowBookmarks" />
   <action id="ShowErrorDescription" />
@@ -302,20 +326,23 @@
   <action id="ToggleFindInSelection" />
   <action id="ToggleFullScreen" />
   <action id="TypeHierarchy" />
+  <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
   <action id="UsageView.Include" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewSource" />
-  <action id="com.haulmont.rcb.CreateReactComponent">
-    <keyboard-shortcut first-keystroke="shift alt r" />
-  </action>
   <action id="com.itcodebox.notebooks.action.SearchRecordAction" />
   <action id="hg4idea.QFold" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="tasks.goto" />
   <action id="tasks.switch" />
