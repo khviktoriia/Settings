@@ -1,32 +1,32 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="customTreeIndentEnabled" value="true" />
+    <option name="compactFields" value="true" />
+    <option name="focusModeEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="accentMode" value="true" />
     <option name="accentScrollbars" value="false" />
     <option name="isHighlightColorEnabled" value="true" />
-    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isCompactFields" value="true" />
+    <option name="isFocusMode" value="true" />
     <option name="isStyledDirectories" value="true" />
+    <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
+    <option name="useGlobalFont" value="true" />
     <option name="useColoredDirectories" value="true" />
     <option name="useColoredTitleBar" value="true" />
     <option name="useProjectTitle" value="false" />
     <option name="useProjectIcon" value="false" />
-    <option name="indicatorStyle" value="Sharp" />
-    <option name="indicatorThickness" value="4" />
-    <option name="leftTreeIndent" value="4" />
-    <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="28" />
-    <option name="accentColor" value="6ca1d7" />
-    <option name="secondAccentColor" value="80b5ea" />
+    <option name="accentColor" value="6189b8" />
+    <option name="secondAccentColor" value="6189b8" />
     <option name="highlightColor" value="ffffff" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-22050c3a:17b8d351779:-7ffa" />
-    <option name="version" value="7.13.2" />
+    <option name="version" value="7.14.2" />
     <option name="tabHighlightPosition" value="Top-Bottom" />
+    <option name="showWhatsNew" value="false" />
   </component>
 </application>

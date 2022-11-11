@@ -42,8 +42,11 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="Console.TableResult.Reload" />
   <action id="CopyPaths" />
   <action id="CopyReference" />
+  <action id="DatabaseView.Refresh" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta f3" />
   </action>
@@ -58,6 +61,9 @@
   <action id="EditorAddCaretPerSelectedLine">
     <keyboard-shortcut first-keystroke="ctrl alt end" />
   </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -66,6 +72,12 @@
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
@@ -188,6 +200,14 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
+  <action id="Git.Ignore.File">
+    <keyboard-shortcut first-keystroke="shift meta g" second-keystroke="i" />
+  </action>
+  <action id="Github.PullRequest.Changes.Reload" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="Github.PullRequest.List.Reload" />
+  <action id="Github.PullRequest.Timeline.Update" />
   <action id="GotoClass" />
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
@@ -202,7 +222,7 @@
   <action id="GotoPreviousError" />
   <action id="GotoRelated" />
   <action id="GotoSuperMethod">
-    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
   <action id="GotoSymbol" />
   <action id="GotoTest" />
@@ -279,6 +299,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
+  <action id="Refresh" />
   <action id="RenameElement" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -286,6 +307,7 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="Rerun" />
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
@@ -318,6 +340,7 @@
   <action id="ShowTypeBookmarks" />
   <action id="SmartTypeCompletion" />
   <action id="SurroundWith" />
+  <action id="Svn.RefreshWorkingCopies" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Synchronize" />
@@ -332,12 +355,16 @@
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
   <action id="UsageView.Include" />
+  <action id="UsageView.Rerun" />
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.RefreshFileHistory" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewSource" />
   <action id="com.itcodebox.notebooks.action.SearchRecordAction" />
   <action id="hg4idea.QFold" />
+  <action id="hg4idea.QRefresh" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
