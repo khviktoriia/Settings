@@ -88,8 +88,14 @@
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" updateFilesToCompile="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)">
+      <option name="FOREGROUND" value="b40d00" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)">
+      <option name="FOREGROUND" value="ff5847" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
