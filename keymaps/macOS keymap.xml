@@ -294,6 +294,9 @@
   </action>
   <action id="RunInspection" />
   <action id="SaveAs" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
