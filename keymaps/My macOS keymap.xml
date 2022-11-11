@@ -1,0 +1,342 @@
+<keymap version="1" name="My macOS keymap" parent="Mac OS X 10.5+">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="CallHierarchy" />
+  <action id="ChangesView.Move" />
+  <action id="CollapseSelection" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths" />
+  <action id="CopyReference" />
+  <action id="Debug" />
+  <action id="EditSource" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorAddCaretPerSelectedLine">
+    <keyboard-shortcut first-keystroke="ctrl alt end" />
+  </action>
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorContextInfo" />
+  <action id="EditorCreateRectangularSelection" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag" />
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorDecreaseFontSizeGlobal" />
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift back_space" />
+  </action>
+  <action id="EditorDeleteToWordEnd" />
+  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorFocusGutter" />
+  <action id="EditorIncreaseFontSizeGlobal" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorMoveToPageTopWithSelection" />
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt end" />
+  </action>
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt end" />
+  </action>
+  <action id="EditorPageDown" />
+  <action id="EditorPageDownWithSelection" />
+  <action id="EditorPageUp" />
+  <action id="EditorPageUpWithSelection" />
+  <action id="EditorPasteFromX11" />
+  <action id="EditorPasteSimple" />
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt home" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt page_up" />
+  </action>
+  <action id="EditorShowGutterIconTooltip" />
+  <action id="EditorSortLines">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine" />
+  <action id="EditorStartNewLineBefore" />
+  <action id="EditorTextEnd" />
+  <action id="EditorTextEndWithSelection" />
+  <action id="EditorTextStart" />
+  <action id="EditorTextStartWithSelection" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="EditorToggleColumnMode" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt page_down" />
+  </action>
+  <action id="EditorUnindentSelection" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
+  <action id="EmojiAndSymbols" />
+  <action id="ExpressionTypeInfo" />
+  <action id="ExternalJavaDoc" />
+  <action id="FileChooserList.LevelUp" />
+  <action id="FileStructurePopup" />
+  <action id="FindNext" />
+  <action id="FindPrevious" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="ForceRunToCursor" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="GitToolBox.BlameDetails" />
+  <action id="GotoAction" />
+  <action id="GotoBookmark0" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
+  <action id="GotoBookmark6" />
+  <action id="GotoBookmark7" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
+  <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="GotoFile" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoNextElementUnderCaretUsage" />
+  <action id="GotoNextError" />
+  <action id="GotoPrevElementUnderCaretUsage" />
+  <action id="GotoPreviousError" />
+  <action id="GotoRelated" />
+  <action id="GotoSuperMethod" />
+  <action id="GotoSymbol" />
+  <action id="GotoTest" />
+  <action id="GotoTypeDeclaration" />
+  <action id="GotoUrlAction" />
+  <action id="HighlightUsagesInFile" />
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="JumpToLastChange" />
+  <action id="MethodDown" />
+  <action id="MethodHierarchy" />
+  <action id="MinimizeCurrentWindow" />
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="MoveElementLeft">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="MoveElementRight">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
+  <action id="NextTab" />
+  <action id="NextWindow" />
+  <action id="OpenInRightSplit" />
+  <action id="ParameterInfo" />
+  <action id="PopupHector" />
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
+  <action id="PreviousTab" />
+  <action id="PreviousWindow" />
+  <action id="QuickChangeScheme" />
+  <action id="QuickImplementations" />
+  <action id="QuickJavaDoc" />
+  <action id="QuickToggleEditorHighlight" />
+  <action id="RecentChanges" />
+  <action id="RecentFiles" />
+  <action id="RecentLocations" />
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RenameTagAction">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="RunInspection" />
+  <action id="RunToCursor" />
+  <action id="SaveAs" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="SelectAllOccurrences" />
+  <action id="SelectIn" />
+  <action id="SelectNextOccurrence" />
+  <action id="SelectVirtualTemplateElement" />
+  <action id="ServiceView.GroupByContributor" />
+  <action id="ShowBookmarks" />
+  <action id="ShowContent" />
+  <action id="ShowErrorDescription" />
+  <action id="ShowFilePath" />
+  <action id="ShowNavBar" />
+  <action id="ShowReformatFileDialog" />
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowTypeBookmarks" />
+  <action id="ShowUsages" />
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Synchronize" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="TextSearchAction" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleFindInSelection" />
+  <action id="ToggleFullScreen" />
+  <action id="ToggleLineBreakpoint" />
+  <action id="ToggleTemporaryLineBreakpoint" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UnselectPreviousOccurrence" />
+  <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="UsageGrouping.FileStructure" />
+  <action id="UsageGrouping.FlattenModules" />
+  <action id="UsageGrouping.UsageType" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="Vcs.UpdateProject" />
+  <action id="VcsShowNextChangeMarker" />
+  <action id="VcsShowPrevChangeMarker" />
+  <action id="ViewSource" />
+  <action id="com.haulmont.rcb.CreateReactComponent">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="hg4idea.QFold" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+</keymap>
