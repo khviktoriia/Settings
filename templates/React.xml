@@ -201,6 +201,7 @@
   </template>
   <template name="cctx" value="const $contextName$ = React.createContext();$END$" description="Creates a context" toReformat="true" toShortenFQNames="true">
     <variable name="contextName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="const()" value="const $CONST$ = () =&gt; (&#10; $END$&#10;);" description="Creates a stateless React component without PropTypes and ES6 module system but with Implicit Return and props" toReformat="true" toShortenFQNames="true">
     <variable name="CONST" expression="" defaultValue="" alwaysStopAt="true" />

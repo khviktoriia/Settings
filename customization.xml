@@ -1,47 +1,61 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="MaterialTheme.Components" is_group="true" action_type="-1" position="22">
+    <group value="MaterialTheme.Components" is_group="true" action_type="-1" position="21">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="MaterialTheme.Accents" is_group="true" action_type="-1" position="21">
+    <group value="MaterialTheme.Accents" is_group="true" action_type="-1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="MaterialTheme.Panels" is_group="true" action_type="-1" position="20">
+    <group value="MaterialTheme.Panels" is_group="true" action_type="-1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="MaterialTheme.ThemeChooser" is_group="true" action_type="-1" position="19">
+    <group value="MaterialTheme.Menu" is_group="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MaterialTheme.ThemeChooser" is_group="true" action_type="-1" position="18">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="AtomFileIcons.Actions" is_group="true" action_type="-1" position="18">
+    <group value="AtomFileIcons.Actions" is_group="true" action_type="-1" position="17">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AtomFileIcons.Actions" is_group="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="space.actions.MainToolbarActionGroup" is_group="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$ShowMaterialPaletteDialogAction" is_action="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MTWhatsNewAction" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Help" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="CodeWithMeToolbarGroup" is_group="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GrepConsoleTail" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GrepConsoleTail" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Git.Commit.Stage" is_action="true" action_type="-1" position="3">
@@ -67,12 +81,6 @@
       <path value="NavBarVcsGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GrepConsoleTail" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="1" position="2">
       <path value="root" />
       <path value="Run Toolbar Widget" />
@@ -83,14 +91,24 @@
       <path value="Run Toolbar Widget" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.Revert" is_action="true" action_type="1" position="4">
+    <group value="Vcs.Push" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Run Toolbar Widget" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Diff.ShowDiff" is_action="true" action_type="1" position="5">
+    <group value="ChangesView.Revert" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Run Toolbar Widget" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Diff.ShowDiff" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Run Toolbar Widget" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$ShowMaterialPaletteDialogAction" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="Vcs.Push" icon="compare.contents" />
