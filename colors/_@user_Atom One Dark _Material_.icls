@@ -4,7 +4,7 @@
     <property name="created">2022-01-18T16:41:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-11-11T22:52:13</property>
+    <property name="modified">2022-11-11T23:05:03</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -57,12 +57,12 @@
     <option name="DOCUMENTATION_COLOR" value="2f333d" />
     <option name="DOC_COMMENT_GUIDE" value="636d83" />
     <option name="DOC_COMMENT_LINK" value="56b6c2" />
-    <option name="FILESTATUS_ADDED" value="49a60" />
+    <option name="FILESTATUS_ADDED" value="66ba99" />
     <option name="FILESTATUS_COPIED" value="3e986f" />
     <option name="FILESTATUS_DELETED" value="e88686" />
     <option name="FILESTATUS_HIJACKED" value="c679dd" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a1a1a1" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="81a0da" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="adadad" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
@@ -70,7 +70,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="85e89d" />
     <option name="FILESTATUS_MERGED" value="61aeef" />
-    <option name="FILESTATUS_MODIFIED" value="2e82ff" />
+    <option name="FILESTATUS_MODIFIED" value="bcdbff" />
     <option name="FILESTATUS_NOT_CHANGED" value="ffffff" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
@@ -81,7 +81,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="56b6c2" />
     <option name="FILESTATUS_changelistConflict" value="ff6347" />
-    <option name="FILESTATUS_modifiedOutside" value="61aeef" />
+    <option name="FILESTATUS_modifiedOutside" value="abc4e2" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="282a36" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="INDENT_GUIDE" value="3c4049" />
