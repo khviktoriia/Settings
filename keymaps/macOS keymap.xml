@@ -351,6 +351,9 @@
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="ToggleFindInSelection" />
   <action id="ToggleFullScreen" />
+  <action id="Tool_External Tools_css">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
