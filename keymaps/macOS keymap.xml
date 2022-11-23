@@ -300,7 +300,9 @@
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="Refresh" />
-  <action id="RenameElement" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
