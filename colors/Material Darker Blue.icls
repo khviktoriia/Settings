@@ -1,11 +1,11 @@
-<scheme name="Material Darker Lime" version="142" parent_scheme="Darcula">
+<scheme name="Material Darker Blue" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-09-08T03:06:08</property>
+    <property name="created">2022-11-11T22:58:32</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2022.2.1.0.0</property>
+    <property name="ideVersion">2022.2.3.0.0</property>
     <property name="modified">2022-11-21T08:40:09</property>
-    <property name="originalScheme">_@user_Material Darker</property>
+    <property name="originalScheme">Material Darker Lime</property>
   </metaInfo>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
@@ -150,10 +150,10 @@
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="c7e864ef" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="424b72" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="" />
-    <option name="ScrollBar.Mac.thumbColor" value="c7e86410" />
+    <option name="ScrollBar.Mac.thumbColor" value="353c55" />
     <option name="ScrollBar.Mac.trackColor" value="" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="212121" />

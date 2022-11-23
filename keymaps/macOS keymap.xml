@@ -42,6 +42,7 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
   <action id="CopyPaths" />
   <action id="CopyReference" />
@@ -60,6 +61,9 @@
   <action id="EditorAddCaretPerSelectedLine">
     <keyboard-shortcut first-keystroke="ctrl alt end" />
   </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -69,10 +73,10 @@
   </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift alt page_up" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="shift alt page_down" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
@@ -218,7 +222,7 @@
   <action id="GotoPreviousError" />
   <action id="GotoRelated" />
   <action id="GotoSuperMethod">
-    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
   <action id="GotoSymbol" />
   <action id="GotoTest" />
@@ -312,6 +316,9 @@
   </action>
   <action id="RunInspection" />
   <action id="SaveAs" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
@@ -344,6 +351,9 @@
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="ToggleFindInSelection" />
   <action id="ToggleFullScreen" />
+  <action id="Tool_External Tools_css">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
