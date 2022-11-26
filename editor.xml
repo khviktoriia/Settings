@@ -23,31 +23,35 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
-        <entry key="Asxx" value="true" />
+        <entry key="Asxx" value="false" />
         <entry key="BashPro Shell Script" value="true" />
         <entry key="C#" value="true" />
-        <entry key="C++" value="true" />
-        <entry key="CSS" value="true" />
-        <entry key="Config" value="true" />
-        <entry key="HTML" value="true" />
+        <entry key="C++" value="false" />
+        <entry key="CSS" value="false" />
+        <entry key="Config" value="false" />
+        <entry key="F#" value="false" />
+        <entry key="F# Script" value="false" />
+        <entry key="HTML" value="false" />
         <entry key="Haml" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="Jade" value="true" />
-        <entry key="JavaScript" value="true" />
-        <entry key="LESS" value="true" />
-        <entry key="MSBuild" value="true" />
-        <entry key="Markdown" value="true" />
-        <entry key="Resx" value="true" />
-        <entry key="RuleSet" value="true" />
-        <entry key="SASS" value="true" />
-        <entry key="SCSS" value="true" />
-        <entry key="SQL" value="true" />
-        <entry key="Stylus" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="VB" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="yaml" value="true" />
+        <entry key="JSON" value="false" />
+        <entry key="Jade" value="false" />
+        <entry key="JavaScript" value="false" />
+        <entry key="LESS" value="false" />
+        <entry key="MSBuild" value="false" />
+        <entry key="Markdown" value="false" />
+        <entry key="Resx" value="false" />
+        <entry key="RuleSet" value="false" />
+        <entry key="SASS" value="false" />
+        <entry key="SCSS" value="false" />
+        <entry key="SQL" value="false" />
+        <entry key="Stylus" value="false" />
+        <entry key="TypeScript" value="false" />
+        <entry key="USS" value="false" />
+        <entry key="UXML" value="false" />
+        <entry key="VB" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="false" />
+        <entry key="yaml" value="false" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
@@ -57,7 +61,6 @@
     <option name="TOOLTIPS_DELAY_MS" value="100" />
     <option name="IS_CARET_BLINKING" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="128" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
