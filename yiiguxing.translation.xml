@@ -1,42 +1,19 @@
 <application>
-  <component name="AppStorage">
-    <option name="newTranslationDialogX" value="675" />
-    <option name="newTranslationDialogY" value="456" />
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1673046027378" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="RUSSIAN" />
+  </component>
+  <component name="Translation.States">
     <histories>
-      <item value="способ" />
-      <item value="A friendly abstraction over the standard Redux createStore() function." />
-      <item value="shallow" />
-      <item value="semicolon" />
-      <item value="Required" />
-      <item value="shut off" />
-      <item value="shut o" />
-      <item value="shuy" />
-      <item value="s" />
-      <item value="in the exact same order in every component render" />
-      <item value="n a tabbed browser, each tab is represented by its own Window object; the global window seen by JavaScript code running within a given tab always represents the tab in which the code is running. That said, even in a tabbed browser, some properties and methods still apply to the overall window that contains the tab, such as resizeTo() and innerHeight. Generally, anything that can't reasonably pertain to a tab pertains to the window instead." />
-      <item value="Next, you'll need to create a database username and password through the CLI to connect to your application. If you'd prefer to use the dashboard for this step, you can find those instructions in the [Connection Strings documentation](https:docs.planetscale.comconceptsconnection-stringscreating-a-password) and then come back here to finish setup. First, create your `.env` file by renaming the `.env.example` file to `.env`:" />
-      <item value="create" />
+      <item value="chocolate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="2" />
-        <entry key="RUSSIAN" value="6" />
-        <entry key="UKRAINIAN" value="3" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
       </map>
     </option>
-  </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1668034143696" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="UKRAINIAN" />
-      </google-translate>
-    </option>
-    <option name="translateDocumentation" value="true" />
-  </component>
-  <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673004741733" />
   </component>
 </application>
