@@ -10,10 +10,22 @@
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="4" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="CodeVisionSettings">
-    <option name="enabled" value="false" />
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="0" />
@@ -23,35 +35,31 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
-        <entry key="Asxx" value="false" />
+        <entry key="Asxx" value="true" />
         <entry key="BashPro Shell Script" value="true" />
         <entry key="C#" value="true" />
-        <entry key="C++" value="false" />
-        <entry key="CSS" value="false" />
-        <entry key="Config" value="false" />
-        <entry key="F#" value="false" />
-        <entry key="F# Script" value="false" />
-        <entry key="HTML" value="false" />
+        <entry key="C++" value="true" />
+        <entry key="CSS" value="true" />
+        <entry key="Config" value="true" />
+        <entry key="HTML" value="true" />
         <entry key="Haml" value="true" />
-        <entry key="JSON" value="false" />
-        <entry key="Jade" value="false" />
-        <entry key="JavaScript" value="false" />
-        <entry key="LESS" value="false" />
-        <entry key="MSBuild" value="false" />
-        <entry key="Markdown" value="false" />
-        <entry key="Resx" value="false" />
-        <entry key="RuleSet" value="false" />
-        <entry key="SASS" value="false" />
-        <entry key="SCSS" value="false" />
-        <entry key="SQL" value="false" />
-        <entry key="Stylus" value="false" />
-        <entry key="TypeScript" value="false" />
-        <entry key="USS" value="false" />
-        <entry key="UXML" value="false" />
-        <entry key="VB" value="false" />
-        <entry key="XHTML" value="false" />
-        <entry key="XML" value="false" />
-        <entry key="yaml" value="false" />
+        <entry key="JSON" value="true" />
+        <entry key="Jade" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="MSBuild" value="true" />
+        <entry key="Markdown" value="true" />
+        <entry key="Resx" value="true" />
+        <entry key="RuleSet" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="true" />
+        <entry key="SQL" value="true" />
+        <entry key="Stylus" value="true" />
+        <entry key="TypeScript" value="true" />
+        <entry key="VB" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
@@ -61,6 +69,7 @@
     <option name="TOOLTIPS_DELAY_MS" value="100" />
     <option name="IS_CARET_BLINKING" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="128" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
@@ -77,7 +86,7 @@
         <option value="ObjectiveC" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old.js.only.show.names.for.all.args" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
@@ -93,9 +102,12 @@
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" updateFilesToCompile="true" />
   <component name="TodoConfiguration">
-    <pattern pattern="\bNotImplementedException\b" />
-    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)">
-      <option name="FOREGROUND" value="ff695f" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bNotImplementedException\b">
+      <option name="FOREGROUND" value="9effc4" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)">
+      <option name="FOREGROUND" value="ffa498" />
       <option name="FONT_TYPE" value="3" />
     </pattern>
     <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)">
