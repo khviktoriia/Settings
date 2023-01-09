@@ -1,16 +1,10 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="/usr/local/bin/node">
-      <version-cache last-modified="0" />
+    <local-interpreter path="/Volumes/Macintosh HD/Users/viktoriia/image-search-project/node_modules/.cache/default-development/0.pack">
+      <version-cache last-modified="1669652479904" />
     </local-interpreter>
     <local-interpreter path="/opt/homebrew/bin/node">
-      <version-cache version="18.11.0" last-modified="1665796018399" />
-    </local-interpreter>
-    <local-interpreter path="/usr/local/Cellar/node/18.3.0/bin/node">
-      <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="/usr/local/Cellar/node/17.0.1/bin/node">
-      <version-cache last-modified="0" />
+      <version-cache version="19.1.0" last-modified="1669016013483" />
     </local-interpreter>
   </component>
 </application>
