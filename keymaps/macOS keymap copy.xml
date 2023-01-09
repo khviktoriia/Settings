@@ -271,6 +271,9 @@
   <action id="Github.PullRequest.Details.Reload" />
   <action id="Github.PullRequest.List.Reload" />
   <action id="Github.PullRequest.Timeline.Update" />
+  <action id="GoToCodeGroup">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="GotoClass" />
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
@@ -287,9 +290,7 @@
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol" />
   <action id="GotoTest" />
-  <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="shift alt t" />
-  </action>
+  <action id="GotoTypeDeclaration" />
   <action id="GotoUrlAction" />
   <action id="Graph.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
