@@ -7,12 +7,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="If true, the root node will inherit the custom component's viewBox and the viewBox prop will be ignored. Useful when you want to reference a custom component and have SvgIcon pass that component's viewBox to the root node." />
       <item value="chocolate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="1" />
-        <entry key="RUSSIAN" value="1" />
+        <entry key="RUSSIAN" value="2" />
       </map>
     </option>
   </component>
