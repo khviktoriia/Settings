@@ -413,11 +413,17 @@
   <action id="StringManipulation.Group.SwitchCase">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="StringManipulation.QuoteAction">
+    <keyboard-shortcut first-keystroke="ctrl meta quote" />
+  </action>
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
   <action id="StringManipulation.ToCamelCase">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
+  <action id="StringManipulation.ToKebabCase">
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
   <action id="StringManipulation.ToPascalCase">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
