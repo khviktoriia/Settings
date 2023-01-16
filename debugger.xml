@@ -88,27 +88,13 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="valueLookupDelay" value="128" />
+      <option name="valueLookupDelay" value="0" />
     </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
       <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
-      <debugger id="dotnet_debugger">
-        <configuration>
-          <option name="automaticallyRefreshWatches" value="true" />
-          <option name="breakOnUserUnhandledExceptions" value="true" />
-          <option name="groupNonPublicMembers" value="true" />
-          <option name="ignorePrecompiledAssemblies" value="true" />
-          <option name="processExceptionsOutsideMyCode" value="true" />
-          <option name="showCompilerGeneratedMembers" value="true" />
-          <option name="showRawNodeForDebuggerBrowsableValues" value="true" />
-          <option name="sshCredentials">
-            <option value="&lt;credentials HOST=&quot;localhost&quot; PORT=&quot;42009&quot; USERNAME=&quot;D3T92AbI&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_OPENSSH_CONFIG=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
-          </option>
-        </configuration>
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
