@@ -9,6 +9,7 @@
       <mapping pattern="fdsf" type="AUTO_DETECTED" />
       <mapping pattern="MainSlide.tsx" type="AUTO_DETECTED" />
       <mapping pattern=".parcelrc" type="JSON" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="dfs" type="JavaScript" />
       <mapping ext="js " type="JavaScript" />
       <mapping ext="woff" type="PLAIN_TEXT" />
