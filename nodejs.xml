@@ -1,7 +1,7 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="/Volumes/Macintosh HD/Users/viktoriia/image-search-project/node_modules/.cache/default-development/0.pack">
-      <version-cache last-modified="1669652479904" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/opt/homebrew/bin/node">
       <version-cache version="19.4.0" last-modified="1673367467544" />
