@@ -2,12 +2,13 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="App.js" type="AUTO_DETECTED" />
       <mapping pattern="device.ts" type="AUTO_DETECTED" />
       <mapping pattern="yarn" type="AUTO_DETECTED" />
       <mapping pattern="device" type="AUTO_DETECTED" />
-      <mapping pattern="App.js" type="AUTO_DETECTED" />
       <mapping pattern="fdsf" type="AUTO_DETECTED" />
       <mapping pattern="MainSlide.tsx" type="AUTO_DETECTED" />
+      <mapping pattern=".parcelrc" type="JSON" />
       <mapping pattern="dfs" type="JavaScript" />
       <mapping ext="js " type="JavaScript" />
       <mapping ext="woff" type="PLAIN_TEXT" />
@@ -22,9 +23,7 @@
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
-      <mapping ext="js " type="JavaScript" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="dfs" type="JavaScript" />
     </extensionMap>
   </component>
 </application>

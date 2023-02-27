@@ -1,5 +1,6 @@
 <application>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="DIFF_PREVIEW_VERTICAL_SPLIT" value="false" />
     <option name="COLUMN_ID_ORDER">
       <list>
@@ -7,7 +8,6 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">

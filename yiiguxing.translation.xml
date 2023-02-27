@@ -1,18 +1,24 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673046027378" />
+    <option name="lastTrimTime" value="1676238333648" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogX" value="700" />
+    <option name="newTranslationDialogY" value="509" />
     <histories>
+      <item value="The Event interface's preventDefault() method tells the user agent  that if the event does not get explicitly handled, its default action should not be taken as it normally would be. The event continues to propagate as usual, unless one of its event listeners calls stopPropagation() or stopImmediatePropagation(), either of which terminates propagation at once.&#10;As noted below, calling preventDefault() for a non-cancelable event, such as one dispatched via EventTarget.dispatchEvent(), without specifying cancelable: true has no effect" />
+      <item value="Reports problems that are found by language annotators in the result of a batch code inspection run." />
+      <item value="Reports problems that are found by language annotators in the result of a batch code inspection run.Reports problems that are found by language annotators in the result of a batch code inspection run." />
+      <item value="If true, the root node will inherit the custom component's viewBox and the viewBox prop will be ignored. Useful when you want to reference a custom component and have SvgIcon pass that component's viewBox to the root node." />
       <item value="chocolate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="1" />
-        <entry key="RUSSIAN" value="1" />
+        <entry key="RUSSIAN" value="4" />
       </map>
     </option>
   </component>
