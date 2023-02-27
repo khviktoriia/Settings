@@ -19,6 +19,7 @@
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tfignore" approved="true" type=".tfignore" />
+      <removed_mapping ext="tps" approved="true" type="XML" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
