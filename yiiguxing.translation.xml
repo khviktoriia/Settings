@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677252767832" />
+    <option name="lastTrimTime" value="1678870921288" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="700" />
     <option name="newTranslationDialogY" value="509" />
     <histories>
+      <item value="contain – Default scroll overflow behavior is observed inside the element this value is set on (e.g. &quot;bounce&quot; effects or refreshes), but no scroll chaining occurs to neighboring scrolling areas, e.g. underlying elements will not scroll." />
       <item value="min-content – The intrinsic minimum width." />
       <item value="Uses the fit-content formula with the available space replaced by the specified argument, i.e. min(max-content, max(min-content, &lt;length-percentage&gt;))" />
       <item value="he intrinsic minimum width." />
@@ -22,7 +23,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="1" />
-        <entry key="RUSSIAN" value="8" />
+        <entry key="RUSSIAN" value="9" />
       </map>
     </option>
   </component>
