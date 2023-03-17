@@ -1,5 +1,7 @@
 <application>
   <component name="KeyPromoterXSettings">
-    <option name="installedVersion" value="2022.3" />
+    <option name="showTipsClickCount" value="2" />
+    <option name="proposeToCreateShortcutCount" value="0" />
+    <option name="installedVersion" value="2023.1.0" />
   </component>
 </application>
