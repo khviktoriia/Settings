@@ -4,7 +4,7 @@
       <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/opt/homebrew/bin/node">
-      <version-cache version="19.4.0" last-modified="1673367467544" />
+      <version-cache version="19.8.1" last-modified="1679034216155" />
     </local-interpreter>
   </component>
 </application>
