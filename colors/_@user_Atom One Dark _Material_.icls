@@ -4,7 +4,7 @@
     <property name="created">2022-01-18T16:41:37</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2023-04-08T00:03:51</property>
+    <property name="modified">2023-04-08T01:09:50</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -58,32 +58,32 @@
     <option name="DOCUMENTATION_COLOR" value="2f333d" />
     <option name="DOC_COMMENT_GUIDE" value="636d83" />
     <option name="DOC_COMMENT_LINK" value="56b6c2" />
-    <option name="FILESTATUS_ADDED" value="98c379" />
-    <option name="FILESTATUS_COPIED" value="98c379" />
-    <option name="FILESTATUS_DELETED" value="59626f" />
-    <option name="FILESTATUS_HIJACKED" value="c679dd" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_ADDED" value="c7ffb0" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_DELETED" value="808080" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="85e89d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="61aeef" />
-    <option name="FILESTATUS_MODIFIED" value="e5c17c" />
+    <option name="FILESTATUS_MERGED" value="c792ea" />
+    <option name="FILESTATUS_MODIFIED" value="9caaf1" />
     <option name="FILESTATUS_NOT_CHANGED" value="ffffff" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="e5beff" />
     <option name="FILESTATUS_RENAMED" value="c679dd" />
-    <option name="FILESTATUS_SUPPRESSED" value="abb2bf" />
-    <option name="FILESTATUS_SWITCHED" value="61aeef" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="56b6c2" />
-    <option name="FILESTATUS_changelistConflict" value="ff6347" />
-    <option name="FILESTATUS_modifiedOutside" value="61aeef" />
+    <option name="FILESTATUS_SUPPRESSED" value="616161" />
+    <option name="FILESTATUS_SWITCHED" value="c792ea" />
+    <option name="FILESTATUS_UNKNOWN" value="ffb1a9" />
+    <option name="FILESTATUS_addedOutside" value="ffcb6b" />
+    <option name="FILESTATUS_changelistConflict" value="fc9867" />
+    <option name="FILESTATUS_modifiedOutside" value="c792ea" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="282a36" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="INDENT_GUIDE" value="3c4049" />
@@ -2178,14 +2178,14 @@
         <option name="FOREGROUND" value="57b6c2" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="BACKGROUND" value="6b727d" />
