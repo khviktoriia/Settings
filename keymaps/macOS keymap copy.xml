@@ -177,7 +177,9 @@
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
   <action id="EditorCutLineEnd" />
-  <action id="EditorDecreaseFontSizeGlobal" />
+  <action id="EditorDecreaseFontSizeGlobal">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDeleteToWordStart" />
   <action id="EditorDown">
