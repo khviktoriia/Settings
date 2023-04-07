@@ -1,6 +1,6 @@
 <application>
   <component name="ReactBuddyPluginAppSettings">
-    <option name="extensionLastUpdateCurrentMillis" value="1680393757851" />
+    <option name="extensionLastUpdateCurrentMillis" value="1680901157843" />
     <option name="extensions">
       <ExtensionState>
         <option name="libraryPackage" value="antd" />
@@ -9,6 +9,7 @@
         <option name="versions">
           <option value="4.18.1" />
           <option value="5.0.0" />
+          <option value="5.3.0" />
         </option>
       </ExtensionState>
       <ExtensionState>
