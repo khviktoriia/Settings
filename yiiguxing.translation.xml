@@ -10,6 +10,7 @@
     <option name="newTranslationDialogY" value="509" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="by subtracting a value of your choice" />
       <item value="innerText is aware of the rendered appearance of text, while textContent is not." />
       <item value="the result and the user input variables" />
       <item value="Set the result variable to 18 plus the value stored in user input." />
@@ -30,7 +31,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="RUSSIAN" value="12" />
       </map>
     </option>
