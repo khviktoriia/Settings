@@ -8,7 +8,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="700" />
     <option name="newTranslationDialogY" value="509" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="the result and the user input variables" />
+      <item value="Set the result variable to 18 plus the value stored in user input." />
+      <item value="Think about the value stored in the user input variable you also created - did that value change?" />
+      <item value="(by subtracting a value of your choice, multiplying it and dividing it)." />
       <item value="fictional user input" />
       <item value="&lt;section id='calculator'&gt;&#10;" />
       <item value="contain – Default scroll overflow behavior is observed inside the element this value is set on (e.g. &quot;bounce&quot; effects or refreshes), but no scroll chaining occurs to neighboring scrolling areas, e.g. underlying elements will not scroll." />
@@ -24,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="10" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="RUSSIAN" value="11" />
       </map>
     </option>
   </component>
