@@ -10,6 +10,7 @@
     <option name="newTranslationDialogY" value="509" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="innerText is aware of the rendered appearance of text, while textContent is not." />
       <item value="the result and the user input variables" />
       <item value="Set the result variable to 18 plus the value stored in user input." />
       <item value="Think about the value stored in the user input variable you also created - did that value change?" />
@@ -30,7 +31,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="8" />
-        <entry key="RUSSIAN" value="11" />
+        <entry key="RUSSIAN" value="12" />
       </map>
     </option>
   </component>
