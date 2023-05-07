@@ -1,30 +1,16 @@
 <application>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-    <option name="DIFF_PREVIEW_VERTICAL_SPLIT" value="false" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
       </list>
-    </option>
-    <option name="COLUMN_ID_VISIBILITY">
-      <map>
-        <entry key="Table.Default.Hash.ColumnIdVisibility" value="false" />
-        <entry key="Table.Git.CommitSignature.ColumnIdVisibility" value="false" />
-      </map>
-    </option>
-    <option name="CUSTOM_BOOLEAN_PROPERTIES">
-      <map>
-        <entry key="Change.Log.Filter.on.Branch.Selection" value="false" />
-        <entry key="Navigate.Log.To.Branch.on.Branch.Selection" value="false" />
-      </map>
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="CREATE_CHANGELISTS_AUTOMATICALLY" value="true" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
