@@ -10,6 +10,8 @@
     <option name="newTranslationDialogY" value="509" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Handle breakMe()'s error with grace" />
+      <item value="grace" />
       <item value="greater" />
       <item value="by subtracting a value of your choice" />
       <item value="innerText is aware of the rendered appearance of text, while textContent is not." />
@@ -32,7 +34,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="12" />
         <entry key="RUSSIAN" value="12" />
       </map>
     </option>
