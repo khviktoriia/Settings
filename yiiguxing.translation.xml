@@ -10,6 +10,8 @@
     <option name="newTranslationDialogY" value="509" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="4. Add a new function: &quot;checkInput&quot; which takes an unlimited amount of arguments (unlimited amount of strings) and executes a callback function if NO argument string is an empty string." />
+      <item value="3. Add a default argument to the function you created: A fallback value for the phrase if no value is provided." />
       <item value="Adjust" />
       <item value="Adjust the arrow function you created as part of task 1 to use three different syntaxes: With two arguments (incl. a phrase that replaces &quot;Hi&quot;), with no arguments (hard-coded values in function body) and with one returned value (instead of outputting text inside of the function directly).&#10;" />
       <item value="Handle breakMe()'s error with grace" />
@@ -36,8 +38,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
-        <entry key="RUSSIAN" value="14" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="RUSSIAN" value="17" />
       </map>
     </option>
   </component>
