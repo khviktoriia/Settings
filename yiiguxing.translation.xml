@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683333633487" />
+    <option name="lastTrimTime" value="1685679145894" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -10,6 +10,9 @@
     <option name="newTranslationDialogY" value="509" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Create a list (and possibly some surrounding logic) where you ensure that NO duplicate values can be added. Use whichever approach seems appropriate to you." />
+      <item value="console.log(min, max);&#10;" />
+      <item value="Pass the array from task 1 split up into multiple arguments to that function." />
       <item value="4. Add a new function: &quot;checkInput&quot; which takes an unlimited amount of arguments (unlimited amount of strings) and executes a callback function if NO argument string is an empty string." />
       <item value="3. Add a default argument to the function you created: A fallback value for the phrase if no value is provided." />
       <item value="Adjust" />
@@ -38,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="17" />
-        <entry key="RUSSIAN" value="17" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="RUSSIAN" value="20" />
       </map>
     </option>
   </component>
