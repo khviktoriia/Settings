@@ -4,6 +4,9 @@
       <blacklist language="Rust">
         <added pattern="*" />
       </blacklist>
+      <blacklist language="JavaScript">
+        <added pattern="String.replace(searchValue,replaceValue)" />
+      </blacklist>
     </blacklists>
     <disabledLanguages>
       <language id="ObjectiveC" />
