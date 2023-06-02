@@ -10,6 +10,7 @@
     <option name="newTranslationDialogY" value="509" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="An id attribute to allow the &lt;textarea&gt; to be associated with a &lt;label&gt; element for accessibility purposes&#10;A name attribute to set the name of the associated data point submitted to the server when the form is submitted.&#10;rows and cols attributes to allow you to specify an exact size for the &lt;textarea&gt; to take. Setting these is a good idea for consistency, as browser defaults can differ.&#10;Default content entered between the opening and closing tags. &lt;textarea&gt; does not support the value attribute.&#10;The &lt;textarea&gt; element also accepts several attributes common to form &lt;input&gt;s, such as autocomplete, autofocus, disabled, placeholder, readonly, and require" />
       <item value="Create a list (and possibly some surrounding logic) where you ensure that NO duplicate values can be added. Use whichever approach seems appropriate to you." />
       <item value="console.log(min, max);&#10;" />
       <item value="Pass the array from task 1 split up into multiple arguments to that function." />
@@ -42,7 +43,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="18" />
-        <entry key="RUSSIAN" value="20" />
+        <entry key="RUSSIAN" value="21" />
       </map>
     </option>
   </component>
