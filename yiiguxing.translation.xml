@@ -10,6 +10,7 @@
     <option name="newTranslationDialogY" value="509" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Use private fields to harden the getter/ setter approach from before." />
       <item value="Instantiate both and use the new AND old properties and methods." />
       <item value="Add two methods to the &quot;Course&quot; class: A method which calculates the length/price value (&quot;how much length do you get for the amount paid&quot;) and one method that outputs a nice course summary (including title, length and price). Call these methods thereafter (and output the result to the console).&#10;" />
       <item value="Instantiate the class twice (two dummy courses of your choice). Output the objects to the console." />
@@ -47,7 +48,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="18" />
-        <entry key="RUSSIAN" value="25" />
+        <entry key="RUSSIAN" value="26" />
       </map>
     </option>
   </component>
