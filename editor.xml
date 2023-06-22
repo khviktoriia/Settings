@@ -13,6 +13,7 @@
       </map>
     </option>
   </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" updateFilesToCompile="true" />
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
