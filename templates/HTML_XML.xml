@@ -1,0 +1,9 @@
+<templateSet group="HTML/XML">
+  <template name=".d" value="&lt;div class=&quot;$CLASS$&quot;&gt;$SELECTION$&lt;/div&gt;" description="div class" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
