@@ -226,6 +226,9 @@
     <keyboard-shortcut first-keystroke="shift page_up" />
   </action>
   <action id="EditorShowGutterIconTooltip" />
+  <action id="EditorSortLines">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="meta page_down" />
