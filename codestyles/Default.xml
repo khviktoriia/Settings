@@ -2,7 +2,7 @@
   <option name="RIGHT_MARGIN" value="80" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <CssCodeStyleSettings>
-    <option name="PROPERTIES_ORDER" value="position, z-index, top, right, bottom, left, display, overflow, overflow-x, overflow-y, float, box-sizing, width, height, max-width, max-height, min-width, min-height, padding, padding-top, padding-right, padding-bottom, padding-left, padding-block, padding-block-start, padding-block-end, padding-inline, padding-inline-start, padding-inline-end, border, border-top, border-right, border-bottom, border-left, border-width, border-top-width, border-right-width, border-bottom-width, border-left-width, margin, margin-top, margin-right, margin-bottom, margin-left, margin-collapse, margin-top-collapse, margin-right-collapse, margin-bottom-collapse, margin-left-collapse, clip, clear, flex, flex-basis, flex-direction, flex-flow, flex-grow, flex-shrink, flex-wrap, grid, grid-area, grid-column, grid-column-start, grid-column-end, grid-row, grid-row-start, grid-row-end, grid-template, grid-template-areas, grid-template-columns, grid-template-rows, grid-auto-flow, grid-auto-columns, grid-auto-rows, grid-gap, grid-column-gap, grid-row-gap, clip, clear" />
+    <option name="PROPERTIES_ORDER" value="position, z-index, top, right, bottom, left, display, overflow, overflow-x, overflow-y, float, box-sizing, width, height, max-width, max-height, min-width, min-height, padding, padding-top, padding-right, padding-bottom, padding-left, padding-block, padding-block-start, padding-block-end, padding-inline, padding-inline-start, padding-inline-end, border, border-top, border-right, border-bottom, border-left, border-width, border-top-width, border-right-width, border-bottom-width, border-left-width, border-radius, border-top-left-radius, border-top-right-radius, border-bottom-left-radius, border-bottom-right-radius, border-start-start-radius, border-end-end-radius, border-end-start-radius, border-start-end-radius, margin, margin-top, margin-right, margin-bottom, margin-left, margin-collapse, margin-top-collapse, margin-right-collapse, margin-bottom-collapse, margin-left-collapse, clip, clear, flex-flow, flex-direction, flex-wrap, flex, flex-grow, flex-shrink, flex-basis, grid, grid-area, grid-column, grid-column-start, grid-column-end, grid-row, grid-row-start, grid-row-end, grid-template, grid-template-columns, grid-template-rows, grid-template-areas, grid-auto-flow, grid-auto-columns, grid-auto-rows, grid-gap, grid-column-gap, grid-row-gap, justify-items, justify-content, align-items, align-content, align-self, justify-self" />
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
@@ -15,7 +15,7 @@
     <option name="COMMENTS_INLINE_STYLE" value="false" />
   </PostCssCodeStyleSettings>
   <ScssCodeStyleSettings>
-    <option name="PROPERTIES_ORDER" value="position, z-index, top, right, bottom, left, display, overflow, overflow-x, overflow-y, float, box-sizing, width, height, max-width, max-height, min-width, min-height, padding, padding-top, padding-right, padding-bottom, padding-left, padding-block, padding-block-start, padding-block-end, padding-inline, padding-inline-start, padding-inline-end, border, border-top, border-right, border-bottom, border-left, border-width, border-top-width, border-right-width, border-bottom-width, border-left-width, margin, margin-top, margin-right, margin-bottom, margin-left, margin-collapse, margin-top-collapse, margin-right-collapse, margin-bottom-collapse, margin-left-collapse, clip, clear, flex, flex-basis, flex-direction, flex-flow, flex-grow, flex-shrink, flex-wrap, grid, grid-area, grid-column, grid-column-start, grid-column-end, grid-row, grid-row-start, grid-row-end, grid-template, grid-template-areas, grid-template-columns, grid-template-rows, grid-auto-flow, grid-auto-columns, grid-auto-rows, grid-gap, grid-column-gap, grid-row-gap, clip, clear" />
+    <option name="PROPERTIES_ORDER" value="position, z-index, top, right, bottom, left, display, overflow, overflow-x, overflow-y, float, box-sizing, width, height, max-width, max-height, min-width, min-height, padding, padding-top, padding-right, padding-bottom, padding-left, padding-block, padding-block-start, padding-block-end, padding-inline, padding-inline-start, padding-inline-end, border, border-top, border-right, border-bottom, border-left, border-width, border-top-width, border-right-width, border-bottom-width, border-left-width, border-radius, border-top-left-radius, border-top-right-radius, border-bottom-left-radius, border-bottom-right-radius, border-start-start-radius, border-end-end-radius, border-end-start-radius, border-start-end-radius, margin, margin-top, margin-right, margin-bottom, margin-left, margin-collapse, margin-top-collapse, margin-right-collapse, margin-bottom-collapse, margin-left-collapse, clip, clear, flex-flow, flex-direction, flex-wrap, flex, flex-grow, flex-shrink, flex-basis, grid, grid-area, grid-column, grid-column-start, grid-column-end, grid-row, grid-row-start, grid-row-end, grid-template, grid-template-columns, grid-template-rows, grid-template-areas, grid-auto-flow, grid-auto-columns, grid-auto-rows, grid-gap, grid-column-gap, grid-row-gap, justify-items, justify-content, align-items, align-content, align-self, justify-self" />
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
   </ScssCodeStyleSettings>
   <codeStyleSettings language="CSS">
@@ -263,6 +263,60 @@
           </rule>
           <rule>
             <match>
+              <NAME>(-[a-z]+-)?border-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-top-left-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-top-right-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-bottom-left-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-bottom-right-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-start-start-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-end-end-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-end-start-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-start-end-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
               <NAME>(-[a-z]+-)?margin</NAME>
             </match>
             <order>BY_NAME</order>
@@ -335,13 +389,7 @@
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?flex</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?flex-basis</NAME>
+              <NAME>(-[a-z]+-)?flex-flow</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -353,7 +401,13 @@
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?flex-flow</NAME>
+              <NAME>(-[a-z]+-)?flex-wrap</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?flex</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -371,7 +425,7 @@
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?flex-wrap</NAME>
+              <NAME>(-[a-z]+-)?flex-basis</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -431,12 +485,6 @@
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?grid-template-areas</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
               <NAME>(-[a-z]+-)?grid-template-columns</NAME>
             </match>
             <order>BY_NAME</order>
@@ -444,6 +492,12 @@
           <rule>
             <match>
               <NAME>(-[a-z]+-)?grid-template-rows</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?grid-template-areas</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -485,13 +539,37 @@
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?clip</NAME>
+              <NAME>(-[a-z]+-)?justify-items</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?clear</NAME>
+              <NAME>(-[a-z]+-)?justify-content</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?align-items</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?align-content</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?align-self</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?justify-self</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -753,6 +831,60 @@
           </rule>
           <rule>
             <match>
+              <NAME>(-[a-z]+-)?border-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-top-left-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-top-right-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-bottom-left-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-bottom-right-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-start-start-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-end-end-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-end-start-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?border-start-end-radius</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
               <NAME>(-[a-z]+-)?margin</NAME>
             </match>
             <order>BY_NAME</order>
@@ -825,13 +957,7 @@
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?flex</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
-              <NAME>(-[a-z]+-)?flex-basis</NAME>
+              <NAME>(-[a-z]+-)?flex-flow</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -843,7 +969,13 @@
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?flex-flow</NAME>
+              <NAME>(-[a-z]+-)?flex-wrap</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?flex</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -861,7 +993,7 @@
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?flex-wrap</NAME>
+              <NAME>(-[a-z]+-)?flex-basis</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -921,12 +1053,6 @@
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?grid-template-areas</NAME>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-          <rule>
-            <match>
               <NAME>(-[a-z]+-)?grid-template-columns</NAME>
             </match>
             <order>BY_NAME</order>
@@ -934,6 +1060,12 @@
           <rule>
             <match>
               <NAME>(-[a-z]+-)?grid-template-rows</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?grid-template-areas</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -975,13 +1107,37 @@
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?clip</NAME>
+              <NAME>(-[a-z]+-)?justify-items</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
           <rule>
             <match>
-              <NAME>(-[a-z]+-)?clear</NAME>
+              <NAME>(-[a-z]+-)?justify-content</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?align-items</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?align-content</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?align-self</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?justify-self</NAME>
             </match>
             <order>BY_NAME</order>
           </rule>
