@@ -15,7 +15,7 @@
     <option name="COMMENTS_INLINE_STYLE" value="false" />
   </PostCssCodeStyleSettings>
   <ScssCodeStyleSettings>
-    <option name="PROPERTIES_ORDER" value="position, z-index, top, right, bottom, left, display, overflow, overflow-x, overflow-y, float, box-sizing, width, height, max-width, max-height, min-width, min-height, padding, padding-top, padding-right, padding-bottom, padding-left, padding-block, padding-block-start, padding-block-end, padding-inline, padding-inline-start, padding-inline-end, border, border-top, border-right, border-bottom, border-left, border-width, border-top-width, border-right-width, border-bottom-width, border-left-width, border-radius, border-top-left-radius, border-top-right-radius, border-bottom-left-radius, border-bottom-right-radius, border-start-start-radius, border-end-end-radius, border-end-start-radius, border-start-end-radius, margin, margin-top, margin-right, margin-bottom, margin-left, margin-collapse, margin-top-collapse, margin-right-collapse, margin-bottom-collapse, margin-left-collapse, clip, clear, flex-flow, flex-direction, flex-wrap, flex, flex-grow, flex-shrink, flex-basis, grid, grid-area, grid-column, grid-column-start, grid-column-end, grid-row, grid-row-start, grid-row-end, grid-template, grid-template-columns, grid-template-rows, grid-template-areas, grid-auto-flow, grid-auto-columns, grid-auto-rows, grid-gap, grid-column-gap, grid-row-gap, justify-items, justify-content, align-items, align-content, align-self, justify-self" />
+    <option name="PROPERTIES_ORDER" value="--columns, position, z-index, top, right, bottom, left, display, overflow, overflow-x, overflow-y, float, box-sizing, width, height, max-width, max-height, min-width, min-height, padding, padding-top, padding-right, padding-bottom, padding-left, padding-block, padding-block-start, padding-block-end, padding-inline, padding-inline-start, padding-inline-end, border, border-top, border-right, border-bottom, border-left, border-width, border-top-width, border-right-width, border-bottom-width, border-left-width, border-radius, border-top-left-radius, border-top-right-radius, border-bottom-left-radius, border-bottom-right-radius, border-start-start-radius, border-end-end-radius, border-end-start-radius, border-start-end-radius, margin, margin-top, margin-right, margin-bottom, margin-left, margin-collapse, margin-top-collapse, margin-right-collapse, margin-bottom-collapse, margin-left-collapse, clip, clear, flex-flow, flex-direction, flex-wrap, flex, flex-grow, flex-shrink, flex-basis, grid, grid-area, grid-column, grid-column-start, grid-column-end, grid-row, grid-row-start, grid-row-end, grid-template, grid-template-columns, grid-template-rows, grid-template-areas, grid-auto-flow, grid-auto-columns, grid-auto-rows, grid-gap, grid-column-gap, grid-row-gap, justify-items, justify-content, align-items, align-content, align-self, justify-self" />
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
   </ScssCodeStyleSettings>
   <codeStyleSettings language="CSS">
@@ -595,6 +595,12 @@
     <arrangement>
       <rules>
         <section>
+          <rule>
+            <match>
+              <NAME>(-[a-z]+-)?--columns</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
           <rule>
             <match>
               <NAME>(-[a-z]+-)?position</NAME>
