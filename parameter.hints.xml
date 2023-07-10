@@ -8,6 +8,9 @@
         <added pattern="String.replace(searchValue,replaceValue)" />
       </blacklist>
     </blacklists>
+    <option id="angular.show.names.for.all.args" value="true" />
+    <option id="js.param.hints.show.names.for.all.args" value="true" />
+    <option id="js.only.show.names.for.all.args" value="true" />
     <disabledLanguages>
       <language id="ObjectiveC" />
     </disabledLanguages>
