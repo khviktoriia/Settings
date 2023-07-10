@@ -11,6 +11,9 @@
       </map>
     </option>
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="DeclarativeInlayHintsSettings">
     <option name="providerIdToEnabled">
       <map>

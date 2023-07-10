@@ -11,6 +11,11 @@
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+  </JSCodeStyleSettings>
   <PostCssCodeStyleSettings>
     <option name="COMMENTS_INLINE_STYLE" value="false" />
   </PostCssCodeStyleSettings>
@@ -18,6 +23,9 @@
     <option name="PROPERTIES_ORDER" value="--columns, position, z-index, top, right, bottom, left, display, overflow, overflow-x, overflow-y, float, box-sizing, width, height, max-width, max-height, min-width, min-height, padding, padding-top, padding-right, padding-bottom, padding-left, padding-block, padding-block-start, padding-block-end, padding-inline, padding-inline-start, padding-inline-end, border, border-top, border-right, border-bottom, border-left, border-width, border-top-width, border-right-width, border-bottom-width, border-left-width, border-radius, border-top-left-radius, border-top-right-radius, border-bottom-left-radius, border-bottom-right-radius, border-start-start-radius, border-end-end-radius, border-end-start-radius, border-start-end-radius, margin, margin-top, margin-right, margin-bottom, margin-left, margin-collapse, margin-top-collapse, margin-right-collapse, margin-bottom-collapse, margin-left-collapse, clip, clear, flex-flow, flex-direction, flex-wrap, flex, flex-grow, flex-shrink, flex-basis, grid, grid-area, grid-column, grid-column-start, grid-column-end, grid-row, grid-row-start, grid-row-end, grid-template, grid-template-columns, grid-template-rows, grid-template-areas, grid-auto-flow, grid-auto-columns, grid-auto-rows, grid-gap, grid-column-gap, grid-row-gap, justify-items, justify-content, align-items, align-content, align-self, justify-self" />
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
   </ScssCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -587,6 +595,13 @@
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -1150,5 +1165,12 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
