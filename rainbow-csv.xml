@@ -1,5 +1,7 @@
 <application>
   <component name="CsvSettings">
     <option name="welcomeNotifyShowed" value="true" />
+    <option name="highlightComments" value="true" />
+    <option name="commentPrefix" value="//" />
   </component>
 </application>

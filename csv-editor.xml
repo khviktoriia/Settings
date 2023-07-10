@@ -1,5 +1,7 @@
 <application>
   <component name="CsvEditorSettings">
     <option name="CURRENT_PLUGIN_VERSION" value="3.2.0-231" />
+    <option name="ZERO_BASED_COLUMN_NUMBERING" value="true" />
+    <option name="COMMENT_INDICATOR" value="/*" />
   </component>
 </application>
