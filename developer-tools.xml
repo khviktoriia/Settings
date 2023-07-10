@@ -1,0 +1,10 @@
+<application>
+  <component name="DeveloperToolsPluginService" dialogIsModal="false" lastSelectedContentNodeId="jwt-encoder-decoder" loadExamples="true" saveInputs="true" saveSecrets="true">
+    <developerToolsConfigurations />
+    <expandedGroupNodeIds>
+      <expandedGroupNodeId value="encoder-decoder" />
+      <expandedGroupNodeId value="cryptography" />
+      <expandedGroupNodeId value="formatting" />
+    </expandedGroupNodeIds>
+  </component>
+</application>
