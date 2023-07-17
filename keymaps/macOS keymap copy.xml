@@ -10,7 +10,7 @@
     <keyboard-shortcut first-keystroke="meta alt t" />
   </action>
   <action id="$Redo">
-    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
   <action id="$ShowMaterialPaletteDialogAction">
     <keyboard-shortcut first-keystroke="ctrl meta m" />
@@ -19,42 +19,55 @@
     <keyboard-shortcut first-keystroke="shift meta alt t" />
   </action>
   <action id="ActivateBookmarksToolWindow">
-    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="meta equals" />
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="l" />
   </action>
-  <action id="ActivateCommitToolWindow" />
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="quote" />
+  </action>
   <action id="ActivateDebugToolWindow" />
-  <action id="ActivateFindToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="9" />
+  </action>
   <action id="ActivateNotesToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
-  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="f11" />
+  </action>
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="0" />
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="minus" />
   </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" second-keystroke="f10" />
   </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStringManipulationToolWindow">
-    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="l" />
-    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="slash" />
     <keyboard-shortcut first-keystroke="meta 0" second-keystroke="back_slash" />
   </action>
-  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="m" />
+  </action>
   <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="equals" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="f12" />
     <keyboard-shortcut first-keystroke="meta 0" second-keystroke="f12" />
   </action>
   <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="9" />
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="meta semicolon" />
   </action>
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" second-keystroke="f9" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down">
     <keyboard-shortcut first-keystroke="meta page_down" />
@@ -68,12 +81,30 @@
   </action>
   <action id="CallHierarchy" />
   <action id="ChangeSignature" />
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="equals" />
+  </action>
+  <action id="ChangesView.Browse">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta l" />
+  </action>
   <action id="ChangesView.CreatePatch">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
-  <action id="CheckinFiles">
-    <keyboard-shortcut first-keystroke="alt k" />
+  <action id="ChangesView.RemoveDeleted">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="minus" />
+  </action>
+  <action id="ChangesView.Revert" />
+  <action id="ChangesView.RevertFiles">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta left" />
+  </action>
+  <action id="ChangesView.ShelveSilently" />
+  <action id="ChangesView.SingleClickPreview">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="9" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="period" />
   </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="alt f3" />
@@ -95,7 +126,16 @@
   <action id="CodeCleanup">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="meta 3" second-keystroke="meta c" />
+  </action>
   <action id="CollapseBlock" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta 3" second-keystroke="c" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta 3" second-keystroke="meta v" />
+  </action>
   <action id="CollapseSelection" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
@@ -103,9 +143,13 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
-  <action id="CompareTwoFiles">
-    <keyboard-shortcut first-keystroke="meta alt d" />
+  <action id="CommitView.SwitchToCommitDialog">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="m" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="semicolon" />
+  </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
@@ -124,12 +168,22 @@
     <keyboard-shortcut first-keystroke="meta f3" />
   </action>
   <action id="Diff.ApplyLeftSide" />
-  <action id="Diff.ApplyRightSide" />
-  <action id="Diff.NextChange" />
-  <action id="Diff.PrevChange" />
-  <action id="Diff.ShowStandaloneDiff">
-    <keyboard-shortcut first-keystroke="ctrl d" />
+  <action id="Diff.ApplyNonConflicts.Left">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta period" />
   </action>
+  <action id="Diff.ApplyNonConflicts.Right">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta comma" />
+  </action>
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="open_bracket" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
@@ -138,7 +192,7 @@
     <keyboard-shortcut first-keystroke="meta alt t" />
   </action>
   <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
   <action id="Editor ShowMaterialPaletteDialogAction">
     <keyboard-shortcut first-keystroke="ctrl meta m" />
@@ -147,7 +201,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt t" />
   </action>
   <action id="EditorAddCaretPerSelectedLine">
-    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="meta 9" second-keystroke="right" />
   </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="meta button1" />
@@ -184,9 +238,7 @@
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
   <action id="EditorCutLineEnd" />
-  <action id="EditorDecreaseFontSizeGlobal">
-    <keyboard-shortcut first-keystroke="meta minus" />
-  </action>
+  <action id="EditorDecreaseFontSizeGlobal" />
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDeleteToWordStart" />
   <action id="EditorDown">
@@ -201,12 +253,10 @@
   <action id="EditorLineEnd" />
   <action id="EditorLineEndWithSelection">
     <keyboard-shortcut first-keystroke="meta alt right" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="EditorLineStart" />
   <action id="EditorLineStartWithSelection">
     <keyboard-shortcut first-keystroke="meta alt left" />
-    <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="EditorMatchBrace" />
   <action id="EditorMoveToPageBottom" />
@@ -231,6 +281,7 @@
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift page_up" />
+    <keyboard-shortcut first-keystroke="meta 9" second-keystroke="period" />
   </action>
   <action id="EditorShowGutterIconTooltip" />
   <action id="EditorSortLines">
@@ -239,9 +290,11 @@
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="meta page_down" />
+    <keyboard-shortcut first-keystroke="meta 9" second-keystroke="down" />
   </action>
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="meta page_up" />
+    <keyboard-shortcut first-keystroke="meta 9" second-keystroke="up" />
   </action>
   <action id="EditorTextEnd" />
   <action id="EditorTextEndWithSelection" />
@@ -252,7 +305,7 @@
   </action>
   <action id="EditorToggleColumnMode" />
   <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="shift page_down" />
+    <keyboard-shortcut first-keystroke="meta 9" second-keystroke="comma" />
   </action>
   <action id="EditorUnindentSelection" />
   <action id="EditorUp">
@@ -262,7 +315,7 @@
   <action id="EmmetPreviousEditPoint" />
   <action id="EmojiAndSymbols" />
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="meta 3" second-keystroke="meta e" />
   </action>
   <action id="ExpandAllToLevel1" />
   <action id="ExpandAllToLevel2" />
@@ -270,10 +323,10 @@
   <action id="ExpandAllToLevel4" />
   <action id="ExpandAllToLevel5" />
   <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="meta equals" />
+    <keyboard-shortcut first-keystroke="meta 3" second-keystroke="e" />
   </action>
   <action id="ExpandRegionRecursively">
-    <keyboard-shortcut first-keystroke="meta alt equals" />
+    <keyboard-shortcut first-keystroke="meta 3" second-keystroke="meta r" />
   </action>
   <action id="ExpandToLevel1" />
   <action id="ExpandToLevel2" />
@@ -286,14 +339,19 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="d" />
+  </action>
   <action id="FileChooserList.LevelUp" />
   <action id="FileChooserList.Root" />
   <action id="FileStructurePopup" />
-  <action id="FindNext" />
-  <action id="FindPrevious" />
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt f" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id="FindUsages" />
   <action id="FindUsagesInFile" />
   <action id="FooBar">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -306,6 +364,13 @@
   </action>
   <action id="Git.Ignore.File">
     <keyboard-shortcut first-keystroke="shift meta g" second-keystroke="i" />
+  </action>
+  <action id="GitCheckoutAsNewBranch">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="n" />
+  </action>
+  <action id="GitNewBranchAction">
+    <keyboard-shortcut first-keystroke="meta alt n" />
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta n" />
   </action>
   <action id="Github.PullRequest.Changes.Reload" />
   <action id="Github.PullRequest.Comments.Reload" />
@@ -364,10 +429,10 @@
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="MoveElementLeft">
-    <keyboard-shortcut first-keystroke="shift meta left" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="left" />
   </action>
   <action id="MoveElementRight">
-    <keyboard-shortcut first-keystroke="shift meta right" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="right" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta down" />
@@ -376,24 +441,35 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="shift meta down" />
-    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="down" />
   </action>
   <action id="MoveStatementUp">
-    <keyboard-shortcut first-keystroke="shift meta up" />
-    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="up" />
   </action>
   <action id="NavBar-selectHome" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="d" />
+  </action>
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="ctrl meta n" />
   </action>
+  <action id="NewHtmlFile">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="h" />
+  </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="j" />
+  </action>
   <action id="NewScratchFile" />
-  <action id="NextDiff" />
+  <action id="NewStylesheetFile">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="s" />
+  </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta down" />
+  </action>
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
@@ -407,7 +483,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="PopupHector" />
-  <action id="PreviousDiff" />
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta up" />
+  </action>
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
@@ -417,15 +495,13 @@
     <keyboard-shortcut first-keystroke="meta alt space" />
   </action>
   <action id="QuickJavaDoc" />
+  <action id="QuickList.Git">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="slash" />
+  </action>
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
-  <action id="RearrangeCode">
-    <keyboard-shortcut first-keystroke="shift meta slash" />
-  </action>
-  <action id="RecentChanges">
-    <keyboard-shortcut first-keystroke="shift meta z" />
-  </action>
+  <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction">
@@ -470,22 +546,26 @@
   <action id="SelectIn" />
   <action id="SelectNextOccurrence" />
   <action id="SelectVirtualTemplateElement" />
+  <action id="ServiceView.AddService">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="Show.Current.Revision">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="i" />
+  </action>
   <action id="ShowBookmarks" />
   <action id="ShowErrorDescription" />
   <action id="ShowFilePath" />
   <action id="ShowNavBar" />
+  <action id="ShowProjectStructureSettings" />
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="meta quote" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
   </action>
   <action id="ShowSearchHistory" />
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowTypeBookmarks" />
-  <action id="ShowUsages">
-    <keyboard-shortcut first-keystroke="shift alt f" />
-  </action>
-  <action id="SilentCodeCleanup">
-    <keyboard-shortcut first-keystroke="meta period" />
-  </action>
+  <action id="ShowUsages" />
   <action id="SmartTypeCompletion" />
   <action id="StringManipulation.Group.SwitchCase">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
@@ -496,13 +576,16 @@
   <action id="StringManipulation.ToPascalCase">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
-  <action id="SurroundWith" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" second-keystroke="s" />
+  </action>
   <action id="Svn.RefreshWorkingCopies" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Synchronize" />
   <action id="Table-selectNextColumnExtendSelection" />
   <action id="Table-selectPreviousColumnExtendSelection" />
+  <action id="Terminal.NewTab" />
   <action id="TextSearchAction" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt b" />
@@ -510,25 +593,62 @@
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="ToggleFindInSelection" />
   <action id="ToggleFullScreen" />
+  <action id="ToolWindowsGroup">
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="0" />
+  </action>
   <action id="Tree-selectParentExtendSelection" />
   <action id="TypeHierarchy" />
+  <action id="Uml.NewElement" />
   <action id="UnselectPreviousOccurrence" />
-  <action id="Unwrap" />
+  <action id="Unwrap">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" second-keystroke="a" />
+  </action>
+  <action id="UnwrapTagAction">
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="u" />
+  </action>
   <action id="UsageFiltering.ReadAccess" />
   <action id="UsageGrouping.DirectoryStructure" />
   <action id="UsageGrouping.FileStructure" />
   <action id="UsageView.Include" />
   <action id="UsageView.Rerun" />
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="ValidateXml">
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="v" />
+  </action>
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
-  <action id="Vcs.RefreshFileHistory" />
-  <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="meta u" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="p" />
   </action>
-  <action id="VcsShowNextChangeMarker" />
-  <action id="VcsShowPrevChangeMarker" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta semicolon" />
+  </action>
+  <action id="Vcs.RefreshFileHistory" />
+  <action id="Vcs.RollbackChangedLines">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="left" />
+  </action>
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="l" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="u" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="up" />
+  </action>
   <action id="ViewSource" />
+  <action id="WrapTagAction">
+    <keyboard-shortcut first-keystroke="meta period" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="w" />
+  </action>
+  <action id="WrapTagContentsAction">
+    <keyboard-shortcut first-keystroke="meta period" second-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="c" />
+  </action>
   <action id="com.itcodebox.notebooks.action.SearchRecordAction" />
   <action id="com.obroom.plugin.toolset.switchcase">
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -548,6 +668,7 @@
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="shift meta s" />
+    <keyboard-shortcut first-keystroke="meta 9" second-keystroke="back_slash" />
   </action>
   <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
     <keyboard-shortcut first-keystroke="ctrl meta l" />

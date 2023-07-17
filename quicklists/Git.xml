@@ -9,4 +9,5 @@
   <action id="GitCompareWithBranchAction" />
   <action id="Git.Add" />
   <action id="GithubCopyPathProvider" />
+  <action id="GotoChangedFile" />
 </list>
