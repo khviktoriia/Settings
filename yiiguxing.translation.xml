@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678870921288" />
+    <option name="lastTrimTime" value="1685679145894" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -8,7 +8,32 @@
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="700" />
     <option name="newTranslationDialogY" value="509" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Use private fields to harden the getter/ setter approach from before." />
+      <item value="Instantiate both and use the new AND old properties and methods." />
+      <item value="Add two methods to the &quot;Course&quot; class: A method which calculates the length/price value (&quot;how much length do you get for the amount paid&quot;) and one method that outputs a nice course summary (including title, length and price). Call these methods thereafter (and output the result to the console).&#10;" />
+      <item value="Instantiate the class twice (two dummy courses of your choice). Output the objects to the console." />
+      <item value="draft" />
+      <item value="An id attribute to allow the &lt;textarea&gt; to be associated with a &lt;label&gt; element for accessibility purposes&#10;A name attribute to set the name of the associated data point submitted to the server when the form is submitted.&#10;rows and cols attributes to allow you to specify an exact size for the &lt;textarea&gt; to take. Setting these is a good idea for consistency, as browser defaults can differ.&#10;Default content entered between the opening and closing tags. &lt;textarea&gt; does not support the value attribute.&#10;The &lt;textarea&gt; element also accepts several attributes common to form &lt;input&gt;s, such as autocomplete, autofocus, disabled, placeholder, readonly, and require" />
+      <item value="Create a list (and possibly some surrounding logic) where you ensure that NO duplicate values can be added. Use whichever approach seems appropriate to you." />
+      <item value="console.log(min, max);&#10;" />
+      <item value="Pass the array from task 1 split up into multiple arguments to that function." />
+      <item value="4. Add a new function: &quot;checkInput&quot; which takes an unlimited amount of arguments (unlimited amount of strings) and executes a callback function if NO argument string is an empty string." />
+      <item value="3. Add a default argument to the function you created: A fallback value for the phrase if no value is provided." />
+      <item value="Adjust" />
+      <item value="Adjust the arrow function you created as part of task 1 to use three different syntaxes: With two arguments (incl. a phrase that replaces &quot;Hi&quot;), with no arguments (hard-coded values in function body) and with one returned value (instead of outputting text inside of the function directly).&#10;" />
+      <item value="Handle breakMe()'s error with grace" />
+      <item value="grace" />
+      <item value="greater" />
+      <item value="by subtracting a value of your choice" />
+      <item value="innerText is aware of the rendered appearance of text, while textContent is not." />
+      <item value="the result and the user input variables" />
+      <item value="Set the result variable to 18 plus the value stored in user input." />
+      <item value="Think about the value stored in the user input variable you also created - did that value change?" />
+      <item value="(by subtracting a value of your choice, multiplying it and dividing it)." />
+      <item value="fictional user input" />
+      <item value="&lt;section id='calculator'&gt;&#10;" />
       <item value="contain – Default scroll overflow behavior is observed inside the element this value is set on (e.g. &quot;bounce&quot; effects or refreshes), but no scroll chaining occurs to neighboring scrolling areas, e.g. underlying elements will not scroll." />
       <item value="min-content – The intrinsic minimum width." />
       <item value="Uses the fit-content formula with the available space replaced by the specified argument, i.e. min(max-content, max(min-content, &lt;length-percentage&gt;))" />
@@ -22,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
-        <entry key="RUSSIAN" value="9" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="RUSSIAN" value="26" />
       </map>
     </option>
   </component>

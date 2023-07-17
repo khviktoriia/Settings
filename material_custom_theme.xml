@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="colorScheme" value="Atom One Dark (Material)" />
     <option name="excludedColor" value="3c4150ff" />
     <option name="accentColor" value="b78288ff" />
     <option name="notificationsColor" value="1c1e24f7" />
