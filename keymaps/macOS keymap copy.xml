@@ -442,9 +442,11 @@
   </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="down" />
+    <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="up" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="NavBar-selectHome" />
   <action id="NewDir">
