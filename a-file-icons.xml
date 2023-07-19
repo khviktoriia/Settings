@@ -1,5 +1,6 @@
 <application>
   <component name="AtomFileIconsConfig">
+    <option name="enabledIcons" value="false" />
     <option name="hasCustomIconSize" value="true" />
     <option name="hasCustomLineHeight" value="true" />
     <option name="hideFileIcons" value="true" />
