@@ -41,7 +41,7 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old.js.only.show.names.for.tagged" />
   </component>
-  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" updateFilesToCompile="true" />
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" updateFilesToCompile="true" />
   <component name="TodoConfiguration">
     <pattern case-sensitive="true" pattern="\btodo\b.*" />
     <pattern case-sensitive="true" pattern="\bfixme\b.*" />
