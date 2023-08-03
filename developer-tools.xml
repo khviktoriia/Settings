@@ -1,6 +1,12 @@
 <application>
-  <component name="DeveloperToolsPluginService" dialogIsModal="false" lastSelectedContentNodeId="jwt-encoder-decoder" loadExamples="true" saveInputs="true" saveSecrets="true">
-    <developerToolsConfigurations />
+  <component name="DeveloperToolsPluginService" dialogIsModal="false" lastSelectedContentNodeId="code-style-formatting" loadExamples="true" saveInputs="true" saveSecrets="true">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="code-style-formatting" id="6300d46e-083e-46d5-81ca-3fd3efae863b" name="Workbench">
+        <properties>
+          <property key="languageId" type="CONFIGURATION" value="kotlin.String|JavaScript" />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
     <expandedGroupNodeIds>
       <expandedGroupNodeId value="encoder-decoder" />
       <expandedGroupNodeId value="cryptography" />
