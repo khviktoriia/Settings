@@ -45,6 +45,11 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bto-fix\b.*">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="BACKGROUND" value="ff5847" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
