@@ -50,6 +50,7 @@
       <option name="BACKGROUND" value="ff5847" />
       <option name="FONT_TYPE" value="3" />
     </pattern>
+    <pattern icon="question" pattern="\bto-add\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
