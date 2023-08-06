@@ -1,5 +1,11 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="StringManipulation.Group.SwitchCase" is_group="true" forse_popup="false" action_type="-1" position="5">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -16,8 +22,8 @@
     </group>
     <group value="SearchEverywhere" is_action="true" action_type="1" position="1">
       <path value="root" />
-      <path value="Main Toolbar Right" />
-      <path value="Translation Title Bar Actions" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="1">
@@ -29,12 +35,6 @@
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="SearchEverywhere" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ChangesView.Revert" is_action="true" action_type="1" position="3">

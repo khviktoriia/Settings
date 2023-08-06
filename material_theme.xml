@@ -4,6 +4,7 @@
     <option name="compactSidebar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isInvertedSelectionColor" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isTabSeparatorsEnabled" value="false" />
     <option name="isTabsShadow" value="false" />
@@ -20,7 +21,7 @@
     <option name="customListItemsSize" value="20" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="8" />
-    <option name="settingsSelectedTab" value="5" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="27" />
     <option name="accentColor" value="74a0f1" />
     <option name="highlightColor" value="d6e3ff" />

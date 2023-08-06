@@ -13,6 +13,7 @@
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".cts" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".es6" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".es6" />
+      <NestingRule child-file-suffix=".html" parent-file-suffix=".jade" />
       <NestingRule child-file-suffix="-compiled.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix="-compiled.js.map" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".js" />
@@ -30,11 +31,11 @@
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".mts" />
       <NestingRule child-file-suffix=".mjs" parent-file-suffix=".mts" />
       <NestingRule child-file-suffix=".mjs.map" parent-file-suffix=".mts" />
+      <NestingRule child-file-suffix=".html" parent-file-suffix=".pug" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".sass" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".sass" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".scss" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".scss" />
-      <NestingRule child-file-suffix=".css" parent-file-suffix=".styl" />
       <NestingRule child-file-suffix=".cjs" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".cjs.map" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".ts" />
@@ -55,6 +56,7 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="compactTreeIndents" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="25" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
