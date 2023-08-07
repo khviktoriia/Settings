@@ -20,7 +20,9 @@
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
   </JSCodeStyleSettings>
   <PostCssCodeStyleSettings>
     <option name="COMMENTS_INLINE_STYLE" value="false" />
@@ -603,7 +605,9 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
+    <option name="WRAP_COMMENTS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
